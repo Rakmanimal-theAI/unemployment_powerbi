@@ -1,0 +1,3299 @@
+<html xmlns:x="urn:schemas-microsoft-com:office:excel">
+	<head>
+		<meta http-equiv="Content-Type" content="charset=windows-1252" />
+		<!--[if gte mso 9]>
+		<xml>
+			<x:ExcelWorkbook>
+				<x:ExcelWorksheets>
+					<x:ExcelWorksheet>
+						<x:Name>matrix</x:Name>
+						<x:WorksheetOptions>
+							<x:Print>
+								<x:ValidPrinterInfo/>
+							</x:Print>
+						</x:WorksheetOptions>
+					</x:ExcelWorksheet>
+				</x:ExcelWorksheets>
+			</x:ExcelWorkbook>
+		</xml>
+		<![endif]-->
+	</head>
+	<body>
+		<style>
+			.stub1 {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+				vertical-align:middle;
+			}
+			.headfirst {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.headlast {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.headmid {
+				mso-style-parent:style0;
+				mso-number-format:\@;
+			}
+			.title
+				mso-style-parent:style0;
+				text-align:left;
+			}
+		</style>
+<table class="pxtable" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<th colspan="18">Labour Force Status by Sex by Regional Council (Qrtly-Mar/Jun/Sep/Dec)</th>
+	</tr>
+	<tr>
+		<td class="headfirst" colspan="1" rowspan="3">&nbsp;</td>
+		<th class="headfirst" colspan="17">Total Both Sexes</th>
+	</tr>
+	<tr>
+		<th class="headmid" colspan="1">Northland</th>
+		<th class="headmid" colspan="1">Auckland</th>
+		<th class="headmid" colspan="1">Waikato</th>
+		<th class="headmid" colspan="1">Bay of Plenty</th>
+		<th class="headmid" colspan="1">Gisborne / Hawke's Bay</th>
+		<th class="headmid" colspan="1">Taranaki</th>
+		<th class="headmid" colspan="1">Taranaki / Manawatu - Whanganui</th>
+		<th class="headmid" colspan="1">Manawatu - Whanganui</th>
+		<th class="headmid" colspan="1">Wellington</th>
+		<th class="headmid" colspan="1">Tasman / Nelson / Marlborough / West Coast</th>
+		<th class="headmid" colspan="1">Canterbury</th>
+		<th class="headmid" colspan="1">Otago / Southland</th>
+		<th class="headmid" colspan="1">Otago</th>
+		<th class="headmid" colspan="1">Southland</th>
+		<th class="headmid" colspan="1">North Island</th>
+		<th class="headmid" colspan="1">South Island</th>
+		<th class="headmid" colspan="1">Total All Regional Councils</th>
+	</tr>
+	<tr>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+		<th class="headlast" colspan="1">Unemployment Rate</th>
+	</tr>
+	<tr>
+		<td class="stub1">1986Q1</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">2.2</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">1986Q2</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1986Q3</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1986Q4</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1987Q1</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1987Q2</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">1987Q3</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">4.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1987Q4</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1988Q1</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">1988Q2</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">1988Q3</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">10.2</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">6.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1988Q4</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">10.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">6.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">1989Q1</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">9.9</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">7.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">1989Q2</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">11.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">10.2</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">7.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">1989Q3</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">10.8</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">11.9</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">7.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">1989Q4</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">10.2</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">7.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1990Q1</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">7.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">1990Q2</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">10.7</td>
+		<td style="white-space: nowrap;">11.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">7.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">1990Q3</td>
+		<td style="white-space: nowrap;">10.2</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">8.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">1990Q4</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">9.5</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">11.6</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">8.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1991Q1</td>
+		<td style="white-space: nowrap;">13.1</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">10.7</td>
+		<td style="white-space: nowrap;">13.5</td>
+		<td style="white-space: nowrap;">12.0</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">11.8</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">10.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">1991Q2</td>
+		<td style="white-space: nowrap;">13.5</td>
+		<td style="white-space: nowrap;">11.3</td>
+		<td style="white-space: nowrap;">10.8</td>
+		<td style="white-space: nowrap;">11.4</td>
+		<td style="white-space: nowrap;">12.5</td>
+		<td style="white-space: nowrap;">11.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">11.4</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">11.0</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">10.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1991Q3</td>
+		<td style="white-space: nowrap;">13.6</td>
+		<td style="white-space: nowrap;">12.3</td>
+		<td style="white-space: nowrap;">11.6</td>
+		<td style="white-space: nowrap;">12.9</td>
+		<td style="white-space: nowrap;">11.3</td>
+		<td style="white-space: nowrap;">13.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">11.8</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">10.8</td>
+		<td style="white-space: nowrap;">11.5</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">11.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">1991Q4</td>
+		<td style="white-space: nowrap;">14.9</td>
+		<td style="white-space: nowrap;">11.9</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">13.2</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">14.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">11.1</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">11.0</td>
+		<td style="white-space: nowrap;">11.3</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">10.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">1992Q1</td>
+		<td style="white-space: nowrap;">16.3</td>
+		<td style="white-space: nowrap;">13.0</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">13.4</td>
+		<td style="white-space: nowrap;">11.3</td>
+		<td style="white-space: nowrap;">13.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">12.4</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">8.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">12.5</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">11.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">1992Q2</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">12.0</td>
+		<td style="white-space: nowrap;">11.2</td>
+		<td style="white-space: nowrap;">12.8</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">10.4</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">10.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1992Q3</td>
+		<td style="white-space: nowrap;">12.7</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">11.0</td>
+		<td style="white-space: nowrap;">12.9</td>
+		<td style="white-space: nowrap;">11.3</td>
+		<td style="white-space: nowrap;">10.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">12.0</td>
+		<td style="white-space: nowrap;">9.6</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">9.6</td>
+		<td style="white-space: nowrap;">11.0</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">10.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">1992Q4</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">10.5</td>
+		<td style="white-space: nowrap;">12.6</td>
+		<td style="white-space: nowrap;">13.6</td>
+		<td style="white-space: nowrap;">12.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">12.9</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">11.3</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">10.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">1993Q1</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">10.8</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">13.5</td>
+		<td style="white-space: nowrap;">9.9</td>
+		<td style="white-space: nowrap;">13.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">12.1</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">11.2</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">10.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">1993Q2</td>
+		<td style="white-space: nowrap;">15.9</td>
+		<td style="white-space: nowrap;">10.6</td>
+		<td style="white-space: nowrap;">12.1</td>
+		<td style="white-space: nowrap;">10.6</td>
+		<td style="white-space: nowrap;">11.8</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">11.3</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">10.8</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">10.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">1993Q3</td>
+		<td style="white-space: nowrap;">15.8</td>
+		<td style="white-space: nowrap;">9.9</td>
+		<td style="white-space: nowrap;">9.6</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">10.2</td>
+		<td style="white-space: nowrap;">11.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">9.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1993Q4</td>
+		<td style="white-space: nowrap;">14.3</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">11.8</td>
+		<td style="white-space: nowrap;">12.8</td>
+		<td style="white-space: nowrap;">9.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">9.6</td>
+		<td style="white-space: nowrap;">9.5</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">9.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">1994Q1</td>
+		<td style="white-space: nowrap;">12.7</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">13.3</td>
+		<td style="white-space: nowrap;">12.7</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">9.6</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">9.9</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">10.4</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">9.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">1994Q2</td>
+		<td style="white-space: nowrap;">12.9</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">10.7</td>
+		<td style="white-space: nowrap;">8.8</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">8.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">1994Q3</td>
+		<td style="white-space: nowrap;">14.7</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">7.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1994Q4</td>
+		<td style="white-space: nowrap;">14.3</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">9.4</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.8</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">7.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">1995Q1</td>
+		<td style="white-space: nowrap;">13.6</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">8.8</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">7.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1995Q2</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">9.6</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">6.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1995Q3</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">6.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1995Q4</td>
+		<td style="white-space: nowrap;">11.7</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1996Q1</td>
+		<td style="white-space: nowrap;">11.9</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">6.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">1996Q2</td>
+		<td style="white-space: nowrap;">11.4</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1996Q3</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">6.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1996Q4</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">6.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">1997Q1</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">10.6</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">7.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">1997Q2</td>
+		<td style="white-space: nowrap;">10.4</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">1997Q3</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">10.3</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1997Q4</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1998Q1</td>
+		<td style="white-space: nowrap;">12.8</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">9.9</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">7.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1998Q2</td>
+		<td style="white-space: nowrap;">11.6</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">12.2</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">7.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1998Q3</td>
+		<td style="white-space: nowrap;">11.6</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">11.2</td>
+		<td style="white-space: nowrap;">10.7</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">7.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">1998Q4</td>
+		<td style="white-space: nowrap;">14.1</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">11.8</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">7.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1999Q1</td>
+		<td style="white-space: nowrap;">13.2</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">10.3</td>
+		<td style="white-space: nowrap;">11.9</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">7.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1999Q2</td>
+		<td style="white-space: nowrap;">14.0</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">7.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">1999Q3</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">6.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">1999Q4</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">6.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2000Q1</td>
+		<td style="white-space: nowrap;">9.8</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">10.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">6.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">2000Q2</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2000Q3</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2000Q4</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2001Q1</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">9.0</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">2001Q2</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2001Q3</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2001Q4</td>
+		<td style="white-space: nowrap;">9.5</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2002Q1</td>
+		<td style="white-space: nowrap;">11.1</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2002Q2</td>
+		<td style="white-space: nowrap;">9.0</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2002Q3</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">2.3</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2002Q4</td>
+		<td style="white-space: nowrap;">8.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2003Q1</td>
+		<td style="white-space: nowrap;">10.2</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">5.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2003Q2</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2003Q3</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2003Q4</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2004Q1</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2004Q2</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">2.2</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2004Q3</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">1.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2004Q4</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">2.3</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2005Q1</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2005Q2</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2005Q3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">2.1</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2005Q4</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q1</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q2</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">2.2</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q3</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2006Q4</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q1</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">4.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q2</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">1.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q3</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2007Q4</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">1.7</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q1</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">2.0</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">4.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q2</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">2.2</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q3</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2008Q4</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">4.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q1</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q2</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">5.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q3</td>
+		<td style="white-space: nowrap;">9.0</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">10.0</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">6.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2009Q4</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">6.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q1</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">6.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q2</td>
+		<td style="white-space: nowrap;">9.0</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">6.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q3</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">6.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2010Q4</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">6.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q1</td>
+		<td style="white-space: nowrap;">9.6</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">6.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q2</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">5.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q3</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">5.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2011Q4</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">5.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q1</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">6.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q2</td>
+		<td style="white-space: nowrap;">8.8</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">6.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q3</td>
+		<td style="white-space: nowrap;">9.2</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">9.0</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">6.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2012Q4</td>
+		<td style="white-space: nowrap;">9.5</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">8.4</td>
+		<td style="white-space: nowrap;">8.7</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.2</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">6.3</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q1</td>
+		<td style="white-space: nowrap;">9.7</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.0</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">6.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q2</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">5.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q3</td>
+		<td style="white-space: nowrap;">9.3</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.2</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">5.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">2013Q4</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">9.0</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">5.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q1</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">5.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q2</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">5.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q3</td>
+		<td style="white-space: nowrap;">8.5</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">5.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2014Q4</td>
+		<td style="white-space: nowrap;">8.0</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">7.9</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">8.9</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q1</td>
+		<td style="white-space: nowrap;">9.1</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">5.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q2</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">7.7</td>
+		<td style="white-space: nowrap;">7.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">5.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q3</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">7.1</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2015Q4</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q1</td>
+		<td style="white-space: nowrap;">8.6</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">5.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q2</td>
+		<td style="white-space: nowrap;">10.9</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q3</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2016Q4</td>
+		<td style="white-space: nowrap;">7.6</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">8.1</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q1</td>
+		<td style="white-space: nowrap;">8.3</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">7.8</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q2</td>
+		<td style="white-space: nowrap;">7.5</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q3</td>
+		<td style="white-space: nowrap;">6.9</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">9.0</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">2.2</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2017Q4</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q1</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.6</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q2</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.8</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q3</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2018Q4</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q1</td>
+		<td style="white-space: nowrap;">7.3</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q2</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q3</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2019Q4</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q1</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q2</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">5.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2020Q4</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2021Q1</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2021Q2</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2021Q3</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2021Q4</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2022Q1</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2022Q2</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">1.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2022Q3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">1.6</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2022Q4</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">3.4</td>
+	</tr>
+	<tr>
+		<td class="stub1">2023Q1</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">2.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2023Q2</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2023Q3</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">2.9</td>
+		<td style="white-space: nowrap;">2.4</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.3</td>
+		<td style="white-space: nowrap;">2.8</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.9</td>
+	</tr>
+	<tr>
+		<td class="stub1">2023Q4</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2024Q1</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">3.3</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">4.7</td>
+	</tr>
+	<tr>
+		<td class="stub1">2024Q2</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">4.6</td>
+		<td style="white-space: nowrap;">5.5</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2024Q3</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">4.8</td>
+	</tr>
+	<tr>
+		<td class="stub1">2024Q4</td>
+		<td style="white-space: nowrap;">6.7</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">6.6</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">3.4</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.1</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">5.0</td>
+	</tr>
+	<tr>
+		<td class="stub1">2025Q1</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">6.5</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">6.0</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">3.8</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.7</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">5.5</td>
+	</tr>
+	<tr>
+		<td class="stub1">2025Q2</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">5.4</td>
+		<td style="white-space: nowrap;">4.9</td>
+		<td style="white-space: nowrap;">3.5</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">4.2</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.0</td>
+		<td style="white-space: nowrap;">4.1</td>
+		<td style="white-space: nowrap;">5.3</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">5.1</td>
+	</tr>
+	<tr>
+		<td class="stub1">2025Q3</td>
+		<td style="white-space: nowrap;">6.3</td>
+		<td style="white-space: nowrap;">6.1</td>
+		<td style="white-space: nowrap;">6.2</td>
+		<td style="white-space: nowrap;">5.0</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">3.9</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">3.2</td>
+		<td style="white-space: nowrap;">4.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">5.6</td>
+		<td style="white-space: nowrap;">4.0</td>
+		<td style="white-space: nowrap;">5.2</td>
+	</tr>
+	<tr>
+		<td class="stub1">2025Q4</td>
+		<td style="white-space: nowrap;">5.2</td>
+		<td style="white-space: nowrap;">6.4</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">5.7</td>
+		<td style="white-space: nowrap;">4.8</td>
+		<td style="white-space: nowrap;">4.3</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">5.1</td>
+		<td style="white-space: nowrap;">5.8</td>
+		<td style="white-space: nowrap;">4.5</td>
+		<td style="white-space: nowrap;">3.7</td>
+		<td style="white-space: nowrap;">..</td>
+		<td style="white-space: nowrap;">2.3</td>
+		<td style="white-space: nowrap;">4.4</td>
+		<td style="white-space: nowrap;">5.9</td>
+		<td style="white-space: nowrap;">3.6</td>
+		<td style="white-space: nowrap;">5.3</td>
+	</tr>
+	<tr>
+		<td class="footnote" colspan="18">
+			<a id="information">
+				<b>Table information:</b>
+			</a>
+			<br />Units:<br />Unemployment Rate: Percent, Magnitude = Units<br /><br /><a id="footnotes"><b>Footnotes:</b></a><br />On 1 November 2010, the new Auckland territorial authority (TA) replaced the existing: Rodney District, North Shore City, Auckland City, Waitakere City, Manukau City, Papakura District, and part of Franklin District councils.<br />The changes were introduced in the release for the June 2011 quarter and backcast for the March 2011 quarter.<br />This has resulted in minor changes in the boundary between the Auckland and Waikato regions. The new boundaries do not significantly affect measures from the Household Labour Force Survey (HLFS).<br /> <br />Symbols:<br />.. figure not available<br />C: Confidential<br />E: Early Estimate<br />P: Provisional<br />R: Revised<br />S: Suppressed<br /><br />Status flags are not displayed<br /><br />Table reference: <br />HLF051AA<br /><br />Last updated:<br />Unemployment Rate: 04 February 2026 10:45am<br /><br />Source: Statistics New Zealand<br />Contact: Information Centre<br />Telephone: 0508 525 525<br />Email:<a href="mailto:info@stats.govt.nz">info@stats.govt.nz</a><br /><br /><br /></td>
+	</tr>
+</table>	</body>
+</html>
