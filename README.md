@@ -2,6 +2,11 @@
 
 <img width="663" height="411" alt="image" src="https://github.com/user-attachments/assets/96ce632e-dc0d-415b-a2af-1cdad24295c6" />
 
+<img width="884" height="341" alt="image" src="https://github.com/user-attachments/assets/d5920ea6-b654-4006-a4b5-7de11c15e89d" />
+
+<img width="771" height="367" alt="image" src="https://github.com/user-attachments/assets/245a4299-9391-4fa4-b63b-ec651a789fc1" />
+
+
 An interactive Power BI dashboard analyzing the relationship between unemployment rates and key economic indicators in New Zealand, featuring predictive forecasting and regional comparisons.
 
 ## 📊 Project Overview
