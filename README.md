@@ -1,5 +1,7 @@
 # New Zealand Economic Dashboard: Unemployment & Economic Indicators Analysis
 
+<img width="663" height="411" alt="image" src="https://github.com/user-attachments/assets/96ce632e-dc0d-415b-a2af-1cdad24295c6" />
+
 An interactive Power BI dashboard analyzing the relationship between unemployment rates and key economic indicators in New Zealand, featuring predictive forecasting and regional comparisons.
 
 ## 📊 Project Overview
