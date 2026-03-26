@@ -1,0 +1,1197 @@
+Date,Unemployment %,Inflation,Interest Rate,GDP,Region
+1999-Q1,13.2,-0.1,4.5,0.8,Northland
+1999-Q2,14,-0.4,4.5,1.7,Northland
+1999-Q3,9.3,-0.5,4.5,3.2,Northland
+1999-Q4,9.7,0.5,4.833333333333333,4.5,Northland
+2000-Q1,9.8,1.5,5.416666666666667,5.5,Northland
+2000-Q2,8.9,2,6.333333333333333,6.1,Northland
+2000-Q3,9.2,3,6.5,5.3,Northland
+2000-Q4,9.1,4,6.5,4.3,Northland
+2001-Q1,7.8,3.1,6.416666666666667,2.9,Northland
+2001-Q2,6.9,3.2,5.833333333333333,2.2,Northland
+2001-Q3,8.5,2.4,5.583333333333333,2.1,Northland
+2001-Q4,9.5,1.8,4.916666666666667,2.6,Northland
+2002-Q1,11.1,2.6,4.833333333333333,3.5,Northland
+2002-Q2,9,2.8,5.416666666666667,4,Northland
+2002-Q3,8.9,2.6,5.75,4.5,Northland
+2002-Q4,8.8,2.7,5.75,4.7,Northland
+2003-Q1,10.2,2.5,5.75,4.7,Northland
+2003-Q2,7.6,1.5,5.416666666666667,4.4,Northland
+2003-Q3,8.7,1.5,5,4.3,Northland
+2003-Q4,7.2,1.6,5,4.2,Northland
+2004-Q1,4.4,1.5,5.25,4.6,Northland
+2004-Q2,5,2.4,5.583333333333333,5.2,Northland
+2004-Q3,5.4,2.5,6.083333333333333,5.1,Northland
+2004-Q4,4.3,2.7,6.5,4.8,Northland
+2005-Q1,4.4,2.8,6.583333333333333,4,Northland
+2005-Q2,7.5,2.8,6.75,3.4,Northland
+2005-Q3,5.9,3.4,6.75,3.2,Northland
+2005-Q4,5,3.2,7.083333333333333,3.2,Northland
+2006-Q1,5.7,3.3,7.25,3.3,Northland
+2006-Q2,5.9,4,7.25,3,Northland
+2006-Q3,5.6,3.5,7.25,2.7,Northland
+2006-Q4,3.6,2.6,7.25,2.9,Northland
+2007-Q1,5.2,2.5,7.333333333333333,2.9,Northland
+2007-Q2,3.4,2,7.833333333333333,3.2,Northland
+2007-Q3,5.6,1.8,8.25,3.6,Northland
+2007-Q4,2.7,3.2,8.25,3.5,Northland
+2008-Q1,4.7,3.4,8.25,3,Northland
+2008-Q2,4.1,4,8.25,2.2,Northland
+2008-Q3,7.2,5.1,7.833333333333333,1,Northland
+2008-Q4,6.5,3.4,6,-0.2,Northland
+2009-Q1,8.6,3,3.3333333333333335,-1.1,Northland
+2009-Q2,7.8,1.9,2.5,-1.7,Northland
+2009-Q3,9,1.7,2.5,-1.8,Northland
+2009-Q4,9.1,2,2.5,-1.2,Northland
+2010-Q1,8.9,2,2.5,-0.1,Northland
+2010-Q2,9,1.7,2.5833333333333335,1.1,Northland
+2010-Q3,8,1.5,3,1.9,Northland
+2010-Q4,8.4,4,3,1.8,Northland
+2011-Q1,9.6,4.5,2.8333333333333335,1.5,Northland
+2011-Q2,7.4,5.3,2.5,1,Northland
+2011-Q3,8.6,4.6,2.5,1,Northland
+2011-Q4,8.1,1.8,2.5,1.8,Northland
+2012-Q1,8.3,1.6,2.5,2.3,Northland
+2012-Q2,8.8,1,2.5,2.7,Northland
+2012-Q3,9.2,0.8,2.5,2.6,Northland
+2012-Q4,9.5,0.9,2.5,2.5,Northland
+2013-Q1,9.7,0.9,2.5,2.2,Northland
+2013-Q2,7.2,0.7,2.5,2.3,Northland
+2013-Q3,9.3,1.4,2.5,2.6,Northland
+2013-Q4,8.5,1.6,2.5,2.3,Northland
+2014-Q1,7.6,1.5,2.5833333333333335,2.7,Northland
+2014-Q2,7.5,1.6,3.0833333333333335,2.7,Northland
+2014-Q3,8.5,1,3.5,2.9,Northland
+2014-Q4,8,0.8,3.5,3.8,Northland
+2015-Q1,9.1,0.3,3.5,3.8,Northland
+2015-Q2,7.7,0.4,3.4166666666666665,4.1,Northland
+2015-Q3,8.3,0.4,2.9166666666666665,4.1,Northland
+2015-Q4,6.2,0.1,2.6666666666666665,3.7,Northland
+2016-Q1,8.6,0.4,2.4166666666666665,3.7,Northland
+2016-Q2,10.9,0.4,2.25,3.8,Northland
+2016-Q3,7.8,0.4,2.0833333333333335,3.9,Northland
+2016-Q4,7.6,1.3,1.8333333333333333,4,Northland
+2017-Q1,8.3,2.2,1.75,3.8,Northland
+2017-Q2,7.5,1.7,1.75,3.6,Northland
+2017-Q3,6.9,1.9,1.75,3.4,Northland
+2017-Q4,5.7,1.6,1.75,3.5,Northland
+2018-Q1,5.9,1.1,1.75,3.6,Northland
+2018-Q2,4.9,1.5,1.75,3.6,Northland
+2018-Q3,6.5,1.9,1.75,3.5,Northland
+2018-Q4,5.8,1.9,1.75,3.4,Northland
+2019-Q1,7.3,1.5,1.75,3.4,Northland
+2019-Q2,5.4,1.7,1.5833333333333333,3.1,Northland
+2019-Q3,5.3,1.5,1.1666666666666667,3.2,Northland
+2019-Q4,5.9,1.9,1,2.9,Northland
+2020-Q1,4.1,2.5,0.75,2.2,Northland
+2020-Q2,3,1.5,0.25,-1,Northland
+2020-Q3,5.9,1.4,0.25,-1.6,Northland
+2020-Q4,5.6,1.4,0.25,-2.1,Northland
+2021-Q1,5.4,1.5,0.25,-1.4,Northland
+2021-Q2,3.5,3.3,0.25,5.2,Northland
+2021-Q3,3.9,4.9,0.25,4.8,Northland
+2021-Q4,3.3,5.9,0.6666666666666666,5.6,Northland
+1999-Q1,7,-0.1,4.5,0.8,Auckland
+1999-Q2,6.3,-0.4,4.5,1.7,Auckland
+1999-Q3,6.3,-0.5,4.5,3.2,Auckland
+1999-Q4,5,0.5,4.833333333333333,4.5,Auckland
+2000-Q1,6.5,1.5,5.416666666666667,5.5,Auckland
+2000-Q2,5.9,2,6.333333333333333,6.1,Auckland
+2000-Q3,5.2,3,6.5,5.3,Auckland
+2000-Q4,5.1,4,6.5,4.3,Auckland
+2001-Q1,5.4,3.1,6.416666666666667,2.9,Auckland
+2001-Q2,5.7,3.2,5.833333333333333,2.2,Auckland
+2001-Q3,4.3,2.4,5.583333333333333,2.1,Auckland
+2001-Q4,4.7,1.8,4.916666666666667,2.6,Auckland
+2002-Q1,5,2.6,4.833333333333333,3.5,Auckland
+2002-Q2,5.1,2.8,5.416666666666667,4,Auckland
+2002-Q3,5,2.6,5.75,4.5,Auckland
+2002-Q4,4.1,2.7,5.75,4.7,Auckland
+2003-Q1,4.6,2.5,5.75,4.7,Auckland
+2003-Q2,4.1,1.5,5.416666666666667,4.4,Auckland
+2003-Q3,3.4,1.5,5,4.3,Auckland
+2003-Q4,3.9,1.6,5,4.2,Auckland
+2004-Q1,4.5,1.5,5.25,4.6,Auckland
+2004-Q2,3.9,2.4,5.583333333333333,5.2,Auckland
+2004-Q3,3.9,2.5,6.083333333333333,5.1,Auckland
+2004-Q4,3.4,2.7,6.5,4.8,Auckland
+2005-Q1,4.3,2.8,6.583333333333333,4,Auckland
+2005-Q2,3.4,2.8,6.75,3.4,Auckland
+2005-Q3,3.5,3.4,6.75,3.2,Auckland
+2005-Q4,3.7,3.2,7.083333333333333,3.2,Auckland
+2006-Q1,3.9,3.3,7.25,3.3,Auckland
+2006-Q2,3.2,4,7.25,3,Auckland
+2006-Q3,3.8,3.5,7.25,2.7,Auckland
+2006-Q4,3.9,2.6,7.25,2.9,Auckland
+2007-Q1,4.6,2.5,7.333333333333333,2.9,Auckland
+2007-Q2,3.3,2,7.833333333333333,3.2,Auckland
+2007-Q3,3.6,1.8,8.25,3.6,Auckland
+2007-Q4,3.6,3.2,8.25,3.5,Auckland
+2008-Q1,4.6,3.4,8.25,3,Auckland
+2008-Q2,4.1,4,8.25,2.2,Auckland
+2008-Q3,4.1,5.1,7.833333333333333,1,Auckland
+2008-Q4,5,3.4,6,-0.2,Auckland
+2009-Q1,6.3,3,3.3333333333333335,-1.1,Auckland
+2009-Q2,6.1,1.9,2.5,-1.7,Auckland
+2009-Q3,6.2,1.7,2.5,-1.8,Auckland
+2009-Q4,7.2,2,2.5,-1.2,Auckland
+2010-Q1,7.5,2,2.5,-0.1,Auckland
+2010-Q2,8.1,1.7,2.5833333333333335,1.1,Auckland
+2010-Q3,6.8,1.5,3,1.9,Auckland
+2010-Q4,7,4,3,1.8,Auckland
+2011-Q1,7,4.5,2.8333333333333335,1.5,Auckland
+2011-Q2,6.6,5.3,2.5,1,Auckland
+2011-Q3,6.2,4.6,2.5,1,Auckland
+2011-Q4,6.2,1.8,2.5,1.8,Auckland
+2012-Q1,7.3,1.6,2.5,2.3,Auckland
+2012-Q2,6.9,1,2.5,2.7,Auckland
+2012-Q3,7.7,0.8,2.5,2.6,Auckland
+2012-Q4,6.4,0.9,2.5,2.5,Auckland
+2013-Q1,6.8,0.9,2.5,2.2,Auckland
+2013-Q2,6.4,0.7,2.5,2.3,Auckland
+2013-Q3,6,1.4,2.5,2.6,Auckland
+2013-Q4,5.6,1.6,2.5,2.3,Auckland
+2014-Q1,6.7,1.5,2.5833333333333335,2.7,Auckland
+2014-Q2,5.8,1.6,3.0833333333333335,2.7,Auckland
+2014-Q3,5.7,1,3.5,2.9,Auckland
+2014-Q4,5.6,0.8,3.5,3.8,Auckland
+2015-Q1,6.5,0.3,3.5,3.8,Auckland
+2015-Q2,5.9,0.4,3.4166666666666665,4.1,Auckland
+2015-Q3,5.6,0.4,2.9166666666666665,4.1,Auckland
+2015-Q4,5.1,0.1,2.6666666666666665,3.7,Auckland
+2016-Q1,6.1,0.4,2.4166666666666665,3.7,Auckland
+2016-Q2,4.7,0.4,2.25,3.8,Auckland
+2016-Q3,5.3,0.4,2.0833333333333335,3.9,Auckland
+2016-Q4,5.1,1.3,1.8333333333333333,4,Auckland
+2017-Q1,5,2.2,1.75,3.8,Auckland
+2017-Q2,4.5,1.7,1.75,3.6,Auckland
+2017-Q3,4.6,1.9,1.75,3.4,Auckland
+2017-Q4,4.1,1.6,1.75,3.5,Auckland
+2018-Q1,4.5,1.1,1.75,3.6,Auckland
+2018-Q2,4.2,1.5,1.75,3.6,Auckland
+2018-Q3,3.7,1.9,1.75,3.5,Auckland
+2018-Q4,4.3,1.9,1.75,3.4,Auckland
+2019-Q1,4.4,1.5,1.75,3.4,Auckland
+2019-Q2,4.2,1.7,1.5833333333333333,3.1,Auckland
+2019-Q3,4.2,1.5,1.1666666666666667,3.2,Auckland
+2019-Q4,4.1,1.9,1,2.9,Auckland
+2020-Q1,4.8,2.5,0.75,2.2,Auckland
+2020-Q2,4,1.5,0.25,-1,Auckland
+2020-Q3,5.6,1.4,0.25,-1.6,Auckland
+2020-Q4,5.3,1.4,0.25,-2.1,Auckland
+2021-Q1,5.3,1.5,0.25,-1.4,Auckland
+2021-Q2,4.1,3.3,0.25,5.2,Auckland
+2021-Q3,3.1,4.9,0.25,4.8,Auckland
+2021-Q4,3,5.9,0.6666666666666666,5.6,Auckland
+1999-Q1,11.9,-0.1,4.5,0.8,Bay of Plenty
+1999-Q2,10.9,-0.4,4.5,1.7,Bay of Plenty
+1999-Q3,9.2,-0.5,4.5,3.2,Bay of Plenty
+1999-Q4,8.6,0.5,4.833333333333333,4.5,Bay of Plenty
+2000-Q1,7.5,1.5,5.416666666666667,5.5,Bay of Plenty
+2000-Q2,8.9,2,6.333333333333333,6.1,Bay of Plenty
+2000-Q3,8.4,3,6.5,5.3,Bay of Plenty
+2000-Q4,6.6,4,6.5,4.3,Bay of Plenty
+2001-Q1,9,3.1,6.416666666666667,2.9,Bay of Plenty
+2001-Q2,7.8,3.2,5.833333333333333,2.2,Bay of Plenty
+2001-Q3,8.6,2.4,5.583333333333333,2.1,Bay of Plenty
+2001-Q4,8.2,1.8,4.916666666666667,2.6,Bay of Plenty
+2002-Q1,7.5,2.6,4.833333333333333,3.5,Bay of Plenty
+2002-Q2,8.3,2.8,5.416666666666667,4,Bay of Plenty
+2002-Q3,7.5,2.6,5.75,4.5,Bay of Plenty
+2002-Q4,6.9,2.7,5.75,4.7,Bay of Plenty
+2003-Q1,7.9,2.5,5.75,4.7,Bay of Plenty
+2003-Q2,7,1.5,5.416666666666667,4.4,Bay of Plenty
+2003-Q3,5.3,1.5,5,4.3,Bay of Plenty
+2003-Q4,6.3,1.6,5,4.2,Bay of Plenty
+2004-Q1,7,1.5,5.25,4.6,Bay of Plenty
+2004-Q2,5.3,2.4,5.583333333333333,5.2,Bay of Plenty
+2004-Q3,3.2,2.5,6.083333333333333,5.1,Bay of Plenty
+2004-Q4,4.5,2.7,6.5,4.8,Bay of Plenty
+2005-Q1,4.7,2.8,6.583333333333333,4,Bay of Plenty
+2005-Q2,3.1,2.8,6.75,3.4,Bay of Plenty
+2005-Q3,4.2,3.4,6.75,3.2,Bay of Plenty
+2005-Q4,4.1,3.2,7.083333333333333,3.2,Bay of Plenty
+2006-Q1,5.1,3.3,7.25,3.3,Bay of Plenty
+2006-Q2,3.8,4,7.25,3,Bay of Plenty
+2006-Q3,4.2,3.5,7.25,2.7,Bay of Plenty
+2006-Q4,3.6,2.6,7.25,2.9,Bay of Plenty
+2007-Q1,4,2.5,7.333333333333333,2.9,Bay of Plenty
+2007-Q2,2.9,2,7.833333333333333,3.2,Bay of Plenty
+2007-Q3,3.4,1.8,8.25,3.6,Bay of Plenty
+2007-Q4,3.8,3.2,8.25,3.5,Bay of Plenty
+2008-Q1,5,3.4,8.25,3,Bay of Plenty
+2008-Q2,3.8,4,8.25,2.2,Bay of Plenty
+2008-Q3,4.1,5.1,7.833333333333333,1,Bay of Plenty
+2008-Q4,4.4,3.4,6,-0.2,Bay of Plenty
+2009-Q1,6,3,3.3333333333333335,-1.1,Bay of Plenty
+2009-Q2,5.8,1.9,2.5,-1.7,Bay of Plenty
+2009-Q3,7.6,1.7,2.5,-1.8,Bay of Plenty
+2009-Q4,7.1,2,2.5,-1.2,Bay of Plenty
+2010-Q1,7.9,2,2.5,-0.1,Bay of Plenty
+2010-Q2,7.9,1.7,2.5833333333333335,1.1,Bay of Plenty
+2010-Q3,8.5,1.5,3,1.9,Bay of Plenty
+2010-Q4,7,4,3,1.8,Bay of Plenty
+2011-Q1,7.2,4.5,2.8333333333333335,1.5,Bay of Plenty
+2011-Q2,6.7,5.3,2.5,1,Bay of Plenty
+2011-Q3,7.4,4.6,2.5,1,Bay of Plenty
+2011-Q4,8,1.8,2.5,1.8,Bay of Plenty
+2012-Q1,8.3,1.6,2.5,2.3,Bay of Plenty
+2012-Q2,5.9,1,2.5,2.7,Bay of Plenty
+2012-Q3,6.9,0.8,2.5,2.6,Bay of Plenty
+2012-Q4,8.4,0.9,2.5,2.5,Bay of Plenty
+2013-Q1,7.8,0.9,2.5,2.2,Bay of Plenty
+2013-Q2,5.9,0.7,2.5,2.3,Bay of Plenty
+2013-Q3,6.9,1.4,2.5,2.6,Bay of Plenty
+2013-Q4,9,1.6,2.5,2.3,Bay of Plenty
+2014-Q1,6.8,1.5,2.5833333333333335,2.7,Bay of Plenty
+2014-Q2,5.6,1.6,3.0833333333333335,2.7,Bay of Plenty
+2014-Q3,6.5,1,3.5,2.9,Bay of Plenty
+2014-Q4,5.6,0.8,3.5,3.8,Bay of Plenty
+2015-Q1,7.7,0.3,3.5,3.8,Bay of Plenty
+2015-Q2,6.3,0.4,3.4166666666666665,4.1,Bay of Plenty
+2015-Q3,5.8,0.4,2.9166666666666665,4.1,Bay of Plenty
+2015-Q4,6,0.1,2.6666666666666665,3.7,Bay of Plenty
+2016-Q1,4.8,0.4,2.4166666666666665,3.7,Bay of Plenty
+2016-Q2,5.1,0.4,2.25,3.8,Bay of Plenty
+2016-Q3,5.2,0.4,2.0833333333333335,3.9,Bay of Plenty
+2016-Q4,4.9,1.3,1.8333333333333333,4,Bay of Plenty
+2017-Q1,7.8,2.2,1.75,3.8,Bay of Plenty
+2017-Q2,6.2,1.7,1.75,3.6,Bay of Plenty
+2017-Q3,4.8,1.9,1.75,3.4,Bay of Plenty
+2017-Q4,5.2,1.6,1.75,3.5,Bay of Plenty
+2018-Q1,6.1,1.1,1.75,3.6,Bay of Plenty
+2018-Q2,5,1.5,1.75,3.6,Bay of Plenty
+2018-Q3,3.6,1.9,1.75,3.5,Bay of Plenty
+2018-Q4,5.1,1.9,1.75,3.4,Bay of Plenty
+2019-Q1,4.7,1.5,1.75,3.4,Bay of Plenty
+2019-Q2,3.5,1.7,1.5833333333333333,3.1,Bay of Plenty
+2019-Q3,3.9,1.5,1.1666666666666667,3.2,Bay of Plenty
+2019-Q4,4.7,1.9,1,2.9,Bay of Plenty
+2020-Q1,5.2,2.5,0.75,2.2,Bay of Plenty
+2020-Q2,4.1,1.5,0.25,-1,Bay of Plenty
+2020-Q3,5.6,1.4,0.25,-1.6,Bay of Plenty
+2020-Q4,5.6,1.4,0.25,-2.1,Bay of Plenty
+2021-Q1,5.5,1.5,0.25,-1.4,Bay of Plenty
+2021-Q2,4.5,3.3,0.25,5.2,Bay of Plenty
+2021-Q3,3.8,4.9,0.25,4.8,Bay of Plenty
+2021-Q4,4.3,5.9,0.6666666666666666,5.6,Bay of Plenty
+1999-Q1,6.9,-0.1,4.5,0.8,Gisborne / Hawke's Bay
+1999-Q2,7.4,-0.4,4.5,1.7,Gisborne / Hawke's Bay
+1999-Q3,7.6,-0.5,4.5,3.2,Gisborne / Hawke's Bay
+1999-Q4,9.3,0.5,4.833333333333333,4.5,Gisborne / Hawke's Bay
+2000-Q1,7.3,1.5,5.416666666666667,5.5,Gisborne / Hawke's Bay
+2000-Q2,6.2,2,6.333333333333333,6.1,Gisborne / Hawke's Bay
+2000-Q3,7.7,3,6.5,5.3,Gisborne / Hawke's Bay
+2000-Q4,8,4,6.5,4.3,Gisborne / Hawke's Bay
+2001-Q1,7,3.1,6.416666666666667,2.9,Gisborne / Hawke's Bay
+2001-Q2,6.6,3.2,5.833333333333333,2.2,Gisborne / Hawke's Bay
+2001-Q3,6,2.4,5.583333333333333,2.1,Gisborne / Hawke's Bay
+2001-Q4,7.2,1.8,4.916666666666667,2.6,Gisborne / Hawke's Bay
+2002-Q1,4.9,2.6,4.833333333333333,3.5,Gisborne / Hawke's Bay
+2002-Q2,5,2.8,5.416666666666667,4,Gisborne / Hawke's Bay
+2002-Q3,5.2,2.6,5.75,4.5,Gisborne / Hawke's Bay
+2002-Q4,6.1,2.7,5.75,4.7,Gisborne / Hawke's Bay
+2003-Q1,6.3,2.5,5.75,4.7,Gisborne / Hawke's Bay
+2003-Q2,4.3,1.5,5.416666666666667,4.4,Gisborne / Hawke's Bay
+2003-Q3,5.3,1.5,5,4.3,Gisborne / Hawke's Bay
+2003-Q4,5.7,1.6,5,4.2,Gisborne / Hawke's Bay
+2004-Q1,6.1,1.5,5.25,4.6,Gisborne / Hawke's Bay
+2004-Q2,4.4,2.4,5.583333333333333,5.2,Gisborne / Hawke's Bay
+2004-Q3,5.5,2.5,6.083333333333333,5.1,Gisborne / Hawke's Bay
+2004-Q4,4.9,2.7,6.5,4.8,Gisborne / Hawke's Bay
+2005-Q1,4.7,2.8,6.583333333333333,4,Gisborne / Hawke's Bay
+2005-Q2,4.8,2.8,6.75,3.4,Gisborne / Hawke's Bay
+2005-Q3,7,3.4,6.75,3.2,Gisborne / Hawke's Bay
+2005-Q4,4.9,3.2,7.083333333333333,3.2,Gisborne / Hawke's Bay
+2006-Q1,3.9,3.3,7.25,3.3,Gisborne / Hawke's Bay
+2006-Q2,3.8,4,7.25,3,Gisborne / Hawke's Bay
+2006-Q3,4.8,3.5,7.25,2.7,Gisborne / Hawke's Bay
+2006-Q4,4.9,2.6,7.25,2.9,Gisborne / Hawke's Bay
+2007-Q1,4.8,2.5,7.333333333333333,2.9,Gisborne / Hawke's Bay
+2007-Q2,5.1,2,7.833333333333333,3.2,Gisborne / Hawke's Bay
+2007-Q3,4.3,1.8,8.25,3.6,Gisborne / Hawke's Bay
+2007-Q4,4.8,3.2,8.25,3.5,Gisborne / Hawke's Bay
+2008-Q1,5.9,3.4,8.25,3,Gisborne / Hawke's Bay
+2008-Q2,4.4,4,8.25,2.2,Gisborne / Hawke's Bay
+2008-Q3,6.7,5.1,7.833333333333333,1,Gisborne / Hawke's Bay
+2008-Q4,6.4,3.4,6,-0.2,Gisborne / Hawke's Bay
+2009-Q1,6.9,3,3.3333333333333335,-1.1,Gisborne / Hawke's Bay
+2009-Q2,7.3,1.9,2.5,-1.7,Gisborne / Hawke's Bay
+2009-Q3,10,1.7,2.5,-1.8,Gisborne / Hawke's Bay
+2009-Q4,8.4,2,2.5,-1.2,Gisborne / Hawke's Bay
+2010-Q1,6.7,2,2.5,-0.1,Gisborne / Hawke's Bay
+2010-Q2,8.6,1.7,2.5833333333333335,1.1,Gisborne / Hawke's Bay
+2010-Q3,7.2,1.5,3,1.9,Gisborne / Hawke's Bay
+2010-Q4,7.2,4,3,1.8,Gisborne / Hawke's Bay
+2011-Q1,8,4.5,2.8333333333333335,1.5,Gisborne / Hawke's Bay
+2011-Q2,6.9,5.3,2.5,1,Gisborne / Hawke's Bay
+2011-Q3,7.3,4.6,2.5,1,Gisborne / Hawke's Bay
+2011-Q4,6.9,1.8,2.5,1.8,Gisborne / Hawke's Bay
+2012-Q1,8.1,1.6,2.5,2.3,Gisborne / Hawke's Bay
+2012-Q2,6.1,1,2.5,2.7,Gisborne / Hawke's Bay
+2012-Q3,9,0.8,2.5,2.6,Gisborne / Hawke's Bay
+2012-Q4,8.7,0.9,2.5,2.5,Gisborne / Hawke's Bay
+2013-Q1,8.3,0.9,2.5,2.2,Gisborne / Hawke's Bay
+2013-Q2,7.5,0.7,2.5,2.3,Gisborne / Hawke's Bay
+2013-Q3,8.3,1.4,2.5,2.6,Gisborne / Hawke's Bay
+2013-Q4,7.3,1.6,2.5,2.3,Gisborne / Hawke's Bay
+2014-Q1,8.1,1.5,2.5833333333333335,2.7,Gisborne / Hawke's Bay
+2014-Q2,6.6,1.6,3.0833333333333335,2.7,Gisborne / Hawke's Bay
+2014-Q3,6.9,1,3.5,2.9,Gisborne / Hawke's Bay
+2014-Q4,7.9,0.8,3.5,3.8,Gisborne / Hawke's Bay
+2015-Q1,7.3,0.3,3.5,3.8,Gisborne / Hawke's Bay
+2015-Q2,7.7,0.4,3.4166666666666665,4.1,Gisborne / Hawke's Bay
+2015-Q3,7.1,0.4,2.9166666666666665,4.1,Gisborne / Hawke's Bay
+2015-Q4,6.7,0.1,2.6666666666666665,3.7,Gisborne / Hawke's Bay
+2016-Q1,8.3,0.4,2.4166666666666665,3.7,Gisborne / Hawke's Bay
+2016-Q2,5,0.4,2.25,3.8,Gisborne / Hawke's Bay
+2016-Q3,6.6,0.4,2.0833333333333335,3.9,Gisborne / Hawke's Bay
+2016-Q4,8.1,1.3,1.8333333333333333,4,Gisborne / Hawke's Bay
+2017-Q1,7.8,2.2,1.75,3.8,Gisborne / Hawke's Bay
+2017-Q2,5.9,1.7,1.75,3.6,Gisborne / Hawke's Bay
+2017-Q3,9,1.9,1.75,3.4,Gisborne / Hawke's Bay
+2017-Q4,5.7,1.6,1.75,3.5,Gisborne / Hawke's Bay
+2018-Q1,5.3,1.1,1.75,3.6,Gisborne / Hawke's Bay
+2018-Q2,4.5,1.5,1.75,3.6,Gisborne / Hawke's Bay
+2018-Q3,4.3,1.9,1.75,3.5,Gisborne / Hawke's Bay
+2018-Q4,5.1,1.9,1.75,3.4,Gisborne / Hawke's Bay
+2019-Q1,5.6,1.5,1.75,3.4,Gisborne / Hawke's Bay
+2019-Q2,4.9,1.7,1.5833333333333333,3.1,Gisborne / Hawke's Bay
+2019-Q3,5.3,1.5,1.1666666666666667,3.2,Gisborne / Hawke's Bay
+2019-Q4,4.3,1.9,1,2.9,Gisborne / Hawke's Bay
+2020-Q1,5.9,2.5,0.75,2.2,Gisborne / Hawke's Bay
+2020-Q2,4.4,1.5,0.25,-1,Gisborne / Hawke's Bay
+2020-Q3,6.7,1.4,0.25,-1.6,Gisborne / Hawke's Bay
+2020-Q4,5.7,1.4,0.25,-2.1,Gisborne / Hawke's Bay
+2021-Q1,5.1,1.5,0.25,-1.4,Gisborne / Hawke's Bay
+2021-Q2,3.2,3.3,0.25,5.2,Gisborne / Hawke's Bay
+2021-Q3,2.6,4.9,0.25,4.8,Gisborne / Hawke's Bay
+2021-Q4,3.8,5.9,0.6666666666666666,5.6,Gisborne / Hawke's Bay
+1999-Q1,7,-0.1,4.5,0.8,Taranaki
+1999-Q2,6.3,-0.4,4.5,1.7,Taranaki
+1999-Q3,6.8,-0.5,4.5,3.2,Taranaki
+1999-Q4,8.9,0.5,4.833333333333333,4.5,Taranaki
+2000-Q1,10.1,1.5,5.416666666666667,5.5,Taranaki
+2000-Q2,8.3,2,6.333333333333333,6.1,Taranaki
+2000-Q3,6.2,3,6.5,5.3,Taranaki
+2000-Q4,5.3,4,6.5,4.3,Taranaki
+2001-Q1,6.3,3.1,6.416666666666667,2.9,Taranaki
+2001-Q2,4.8,3.2,5.833333333333333,2.2,Taranaki
+2001-Q3,5.8,2.4,5.583333333333333,2.1,Taranaki
+2001-Q4,6.1,1.8,4.916666666666667,2.6,Taranaki
+2002-Q1,5,2.6,4.833333333333333,3.5,Taranaki
+2002-Q2,4.5,2.8,5.416666666666667,4,Taranaki
+2002-Q3,5.7,2.6,5.75,4.5,Taranaki
+2002-Q4,5.8,2.7,5.75,4.7,Taranaki
+2003-Q1,5.2,2.5,5.75,4.7,Taranaki
+2003-Q2,5.7,1.5,5.416666666666667,4.4,Taranaki
+2003-Q3,5.1,1.5,5,4.3,Taranaki
+2003-Q4,4.5,1.6,5,4.2,Taranaki
+2004-Q1,5.3,1.5,5.25,4.6,Taranaki
+2004-Q2,3.7,2.4,5.583333333333333,5.2,Taranaki
+2004-Q3,4.3,2.5,6.083333333333333,5.1,Taranaki
+2004-Q4,4.4,2.7,6.5,4.8,Taranaki
+2005-Q1,3.8,2.8,6.583333333333333,4,Taranaki
+2005-Q2,2.9,2.8,6.75,3.4,Taranaki
+2005-Q3,3.5,3.4,6.75,3.2,Taranaki
+2005-Q4,4.2,3.2,7.083333333333333,3.2,Taranaki
+2006-Q1,5,3.3,7.25,3.3,Taranaki
+2006-Q2,2.4,4,7.25,3,Taranaki
+2006-Q3,3.5,3.5,7.25,2.7,Taranaki
+2006-Q4,2.7,2.6,7.25,2.9,Taranaki
+2007-Q1,4.1,2.5,7.333333333333333,2.9,Taranaki
+2007-Q2,3.9,2,7.833333333333333,3.2,Taranaki
+2007-Q3,2.7,1.8,8.25,3.6,Taranaki
+2007-Q4,2.6,3.2,8.25,3.5,Taranaki
+2008-Q1,3.6,3.4,8.25,3,Taranaki
+2008-Q2,3,4,8.25,2.2,Taranaki
+2008-Q3,3.4,5.1,7.833333333333333,1,Taranaki
+2008-Q4,3.1,3.4,6,-0.2,Taranaki
+2009-Q1,2.7,3,3.3333333333333335,-1.1,Taranaki
+2009-Q2,4.3,1.9,2.5,-1.7,Taranaki
+2009-Q3,3.7,1.7,2.5,-1.8,Taranaki
+2009-Q4,6,2,2.5,-1.2,Taranaki
+2010-Q1,4.9,2,2.5,-0.1,Taranaki
+2010-Q2,4.5,1.7,2.5833333333333335,1.1,Taranaki
+2010-Q3,4.8,1.5,3,1.9,Taranaki
+2010-Q4,4.9,4,3,1.8,Taranaki
+2011-Q1,4.6,4.5,2.8333333333333335,1.5,Taranaki
+2011-Q2,5.1,5.3,2.5,1,Taranaki
+2011-Q3,5.1,4.6,2.5,1,Taranaki
+2011-Q4,3.6,1.8,2.5,1.8,Taranaki
+2012-Q1,4.5,1.6,2.5,2.3,Taranaki
+2012-Q2,3.7,1,2.5,2.7,Taranaki
+2012-Q3,4.5,0.8,2.5,2.6,Taranaki
+2012-Q4,5,0.9,2.5,2.5,Taranaki
+2013-Q1,5.2,0.9,2.5,2.2,Taranaki
+2013-Q2,5,0.7,2.5,2.3,Taranaki
+2013-Q3,5.3,1.4,2.5,2.6,Taranaki
+2013-Q4,5.8,1.6,2.5,2.3,Taranaki
+2014-Q1,6.4,1.5,2.5833333333333335,2.7,Taranaki
+2014-Q2,5.2,1.6,3.0833333333333335,2.7,Taranaki
+2014-Q3,4.4,1,3.5,2.9,Taranaki
+2014-Q4,4.8,0.8,3.5,3.8,Taranaki
+2015-Q1,6,0.3,3.5,3.8,Taranaki
+2015-Q2,7.4,0.4,3.4166666666666665,4.1,Taranaki
+2015-Q3,4.6,0.4,2.9166666666666665,4.1,Taranaki
+2015-Q4,4,0.1,2.6666666666666665,3.7,Taranaki
+2016-Q1,5.9,0.4,2.4166666666666665,3.7,Taranaki
+2016-Q2,4.8,0.4,2.25,3.8,Taranaki
+2016-Q3,4.7,0.4,2.0833333333333335,3.9,Taranaki
+2016-Q4,6.9,1.3,1.8333333333333333,4,Taranaki
+2017-Q1,6.3,2.2,1.75,3.8,Taranaki
+2017-Q2,5.2,1.7,1.75,3.6,Taranaki
+2017-Q3,5.1,1.9,1.75,3.4,Taranaki
+2017-Q4,6.5,1.6,1.75,3.5,Taranaki
+2018-Q1,5.2,1.1,1.75,3.6,Taranaki
+2018-Q2,5.4,1.5,1.75,3.6,Taranaki
+2018-Q3,4.2,1.9,1.75,3.5,Taranaki
+2018-Q4,4.8,1.9,1.75,3.4,Taranaki
+2019-Q1,5.7,1.5,1.75,3.4,Taranaki
+2019-Q2,5.3,1.7,1.5833333333333333,3.1,Taranaki
+2019-Q3,6.2,1.5,1.1666666666666667,3.2,Taranaki
+2019-Q4,4.3,1.9,1,2.9,Taranaki
+2020-Q1,3.8,2.5,0.75,2.2,Taranaki
+2020-Q2,4.4,1.5,0.25,-1,Taranaki
+2020-Q3,4.5,1.4,0.25,-1.6,Taranaki
+2020-Q4,6.4,1.4,0.25,-2.1,Taranaki
+2021-Q1,5.3,1.5,0.25,-1.4,Taranaki
+2021-Q2,4.1,3.3,0.25,5.2,Taranaki
+2021-Q3,4.1,4.9,0.25,4.8,Taranaki
+2021-Q4,4.2,5.9,0.6666666666666666,5.6,Taranaki
+1999-Q1,7.5,-0.1,4.5,0.8,Manawatu - Whanganui
+1999-Q2,5.8,-0.4,4.5,1.7,Manawatu - Whanganui
+1999-Q3,7.2,-0.5,4.5,3.2,Manawatu - Whanganui
+1999-Q4,7.9,0.5,4.833333333333333,4.5,Manawatu - Whanganui
+2000-Q1,6.7,1.5,5.416666666666667,5.5,Manawatu - Whanganui
+2000-Q2,6.8,2,6.333333333333333,6.1,Manawatu - Whanganui
+2000-Q3,6.7,3,6.5,5.3,Manawatu - Whanganui
+2000-Q4,5.5,4,6.5,4.3,Manawatu - Whanganui
+2001-Q1,6.7,3.1,6.416666666666667,2.9,Manawatu - Whanganui
+2001-Q2,4.6,3.2,5.833333333333333,2.2,Manawatu - Whanganui
+2001-Q3,4.4,2.4,5.583333333333333,2.1,Manawatu - Whanganui
+2001-Q4,5.4,1.8,4.916666666666667,2.6,Manawatu - Whanganui
+2002-Q1,6.2,2.6,4.833333333333333,3.5,Manawatu - Whanganui
+2002-Q2,5.5,2.8,5.416666666666667,4,Manawatu - Whanganui
+2002-Q3,5.3,2.6,5.75,4.5,Manawatu - Whanganui
+2002-Q4,4,2.7,5.75,4.7,Manawatu - Whanganui
+2003-Q1,4.8,2.5,5.75,4.7,Manawatu - Whanganui
+2003-Q2,5.4,1.5,5.416666666666667,4.4,Manawatu - Whanganui
+2003-Q3,5.3,1.5,5,4.3,Manawatu - Whanganui
+2003-Q4,3.8,1.6,5,4.2,Manawatu - Whanganui
+2004-Q1,5.9,1.5,5.25,4.6,Manawatu - Whanganui
+2004-Q2,4.3,2.4,5.583333333333333,5.2,Manawatu - Whanganui
+2004-Q3,3,2.5,6.083333333333333,5.1,Manawatu - Whanganui
+2004-Q4,4.3,2.7,6.5,4.8,Manawatu - Whanganui
+2005-Q1,4.8,2.8,6.583333333333333,4,Manawatu - Whanganui
+2005-Q2,4.2,2.8,6.75,3.4,Manawatu - Whanganui
+2005-Q3,4.6,3.4,6.75,3.2,Manawatu - Whanganui
+2005-Q4,4.2,3.2,7.083333333333333,3.2,Manawatu - Whanganui
+2006-Q1,5.4,3.3,7.25,3.3,Manawatu - Whanganui
+2006-Q2,4.7,4,7.25,3,Manawatu - Whanganui
+2006-Q3,4,3.5,7.25,2.7,Manawatu - Whanganui
+2006-Q4,4.4,2.6,7.25,2.9,Manawatu - Whanganui
+2007-Q1,5,2.5,7.333333333333333,2.9,Manawatu - Whanganui
+2007-Q2,5.2,2,7.833333333333333,3.2,Manawatu - Whanganui
+2007-Q3,5.1,1.8,8.25,3.6,Manawatu - Whanganui
+2007-Q4,5.4,3.2,8.25,3.5,Manawatu - Whanganui
+2008-Q1,5,3.4,8.25,3,Manawatu - Whanganui
+2008-Q2,4.4,4,8.25,2.2,Manawatu - Whanganui
+2008-Q3,3.6,5.1,7.833333333333333,1,Manawatu - Whanganui
+2008-Q4,3.7,3.4,6,-0.2,Manawatu - Whanganui
+2009-Q1,4.7,3,3.3333333333333335,-1.1,Manawatu - Whanganui
+2009-Q2,4.7,1.9,2.5,-1.7,Manawatu - Whanganui
+2009-Q3,5.4,1.7,2.5,-1.8,Manawatu - Whanganui
+2009-Q4,8,2,2.5,-1.2,Manawatu - Whanganui
+2010-Q1,7,2,2.5,-0.1,Manawatu - Whanganui
+2010-Q2,6.9,1.7,2.5833333333333335,1.1,Manawatu - Whanganui
+2010-Q3,6.3,1.5,3,1.9,Manawatu - Whanganui
+2010-Q4,6.5,4,3,1.8,Manawatu - Whanganui
+2011-Q1,6.6,4.5,2.8333333333333335,1.5,Manawatu - Whanganui
+2011-Q2,6.8,5.3,2.5,1,Manawatu - Whanganui
+2011-Q3,6.3,4.6,2.5,1,Manawatu - Whanganui
+2011-Q4,6.1,1.8,2.5,1.8,Manawatu - Whanganui
+2012-Q1,8.9,1.6,2.5,2.3,Manawatu - Whanganui
+2012-Q2,7.1,1,2.5,2.7,Manawatu - Whanganui
+2012-Q3,7.9,0.8,2.5,2.6,Manawatu - Whanganui
+2012-Q4,8.2,0.9,2.5,2.5,Manawatu - Whanganui
+2013-Q1,7,0.9,2.5,2.2,Manawatu - Whanganui
+2013-Q2,8.5,0.7,2.5,2.3,Manawatu - Whanganui
+2013-Q3,7.2,1.4,2.5,2.6,Manawatu - Whanganui
+2013-Q4,5.2,1.6,2.5,2.3,Manawatu - Whanganui
+2014-Q1,7.5,1.5,2.5833333333333335,2.7,Manawatu - Whanganui
+2014-Q2,6.7,1.6,3.0833333333333335,2.7,Manawatu - Whanganui
+2014-Q3,6.6,1,3.5,2.9,Manawatu - Whanganui
+2014-Q4,8.9,0.8,3.5,3.8,Manawatu - Whanganui
+2015-Q1,7.4,0.3,3.5,3.8,Manawatu - Whanganui
+2015-Q2,6.7,0.4,3.4166666666666665,4.1,Manawatu - Whanganui
+2015-Q3,6.4,0.4,2.9166666666666665,4.1,Manawatu - Whanganui
+2015-Q4,6.2,0.1,2.6666666666666665,3.7,Manawatu - Whanganui
+2016-Q1,6.9,0.4,2.4166666666666665,3.7,Manawatu - Whanganui
+2016-Q2,5.6,0.4,2.25,3.8,Manawatu - Whanganui
+2016-Q3,4.7,0.4,2.0833333333333335,3.9,Manawatu - Whanganui
+2016-Q4,5.9,1.3,1.8333333333333333,4,Manawatu - Whanganui
+2017-Q1,5.3,2.2,1.75,3.8,Manawatu - Whanganui
+2017-Q2,4.8,1.7,1.75,3.6,Manawatu - Whanganui
+2017-Q3,5.6,1.9,1.75,3.4,Manawatu - Whanganui
+2017-Q4,5.7,1.6,1.75,3.5,Manawatu - Whanganui
+2018-Q1,6.3,1.1,1.75,3.6,Manawatu - Whanganui
+2018-Q2,6.8,1.5,1.75,3.6,Manawatu - Whanganui
+2018-Q3,3.7,1.9,1.75,3.5,Manawatu - Whanganui
+2018-Q4,6.2,1.9,1.75,3.4,Manawatu - Whanganui
+2019-Q1,6.5,1.5,1.75,3.4,Manawatu - Whanganui
+2019-Q2,4.6,1.7,1.5833333333333333,3.1,Manawatu - Whanganui
+2019-Q3,5.4,1.5,1.1666666666666667,3.2,Manawatu - Whanganui
+2019-Q4,4.5,1.9,1,2.9,Manawatu - Whanganui
+2020-Q1,4.1,2.5,0.75,2.2,Manawatu - Whanganui
+2020-Q2,4.7,1.5,0.25,-1,Manawatu - Whanganui
+2020-Q3,4.7,1.4,0.25,-1.6,Manawatu - Whanganui
+2020-Q4,4.6,1.4,0.25,-2.1,Manawatu - Whanganui
+2021-Q1,3.8,1.5,0.25,-1.4,Manawatu - Whanganui
+2021-Q2,4.8,3.3,0.25,5.2,Manawatu - Whanganui
+2021-Q3,2.8,4.9,0.25,4.8,Manawatu - Whanganui
+2021-Q4,2.6,5.9,0.6666666666666666,5.6,Manawatu - Whanganui
+1999-Q1,6.7,-0.1,4.5,0.8,Wellington
+1999-Q2,6.7,-0.4,4.5,1.7,Wellington
+1999-Q3,5.1,-0.5,4.5,3.2,Wellington
+1999-Q4,4.2,0.5,4.833333333333333,4.5,Wellington
+2000-Q1,6.4,1.5,5.416666666666667,5.5,Wellington
+2000-Q2,5.4,2,6.333333333333333,6.1,Wellington
+2000-Q3,5.1,3,6.5,5.3,Wellington
+2000-Q4,4.7,4,6.5,4.3,Wellington
+2001-Q1,4.5,3.1,6.416666666666667,2.9,Wellington
+2001-Q2,3.3,3.2,5.833333333333333,2.2,Wellington
+2001-Q3,4.7,2.4,5.583333333333333,2.1,Wellington
+2001-Q4,4.8,1.8,4.916666666666667,2.6,Wellington
+2002-Q1,5.9,2.6,4.833333333333333,3.5,Wellington
+2002-Q2,4.5,2.8,5.416666666666667,4,Wellington
+2002-Q3,4.8,2.6,5.75,4.5,Wellington
+2002-Q4,5,2.7,5.75,4.7,Wellington
+2003-Q1,6.2,2.5,5.75,4.7,Wellington
+2003-Q2,4.8,1.5,5.416666666666667,4.4,Wellington
+2003-Q3,4.8,1.5,5,4.3,Wellington
+2003-Q4,5.6,1.6,5,4.2,Wellington
+2004-Q1,4.8,1.5,5.25,4.6,Wellington
+2004-Q2,4.8,2.4,5.583333333333333,5.2,Wellington
+2004-Q3,4,2.5,6.083333333333333,5.1,Wellington
+2004-Q4,4,2.7,6.5,4.8,Wellington
+2005-Q1,4.7,2.8,6.583333333333333,4,Wellington
+2005-Q2,4.2,2.8,6.75,3.4,Wellington
+2005-Q3,3.2,3.4,6.75,3.2,Wellington
+2005-Q4,3.1,3.2,7.083333333333333,3.2,Wellington
+2006-Q1,5.8,3.3,7.25,3.3,Wellington
+2006-Q2,5.9,4,7.25,3,Wellington
+2006-Q3,3.6,3.5,7.25,2.7,Wellington
+2006-Q4,4.4,2.6,7.25,2.9,Wellington
+2007-Q1,4.7,2.5,7.333333333333333,2.9,Wellington
+2007-Q2,3.4,2,7.833333333333333,3.2,Wellington
+2007-Q3,3.3,1.8,8.25,3.6,Wellington
+2007-Q4,2.4,3.2,8.25,3.5,Wellington
+2008-Q1,5,3.4,8.25,3,Wellington
+2008-Q2,3.1,4,8.25,2.2,Wellington
+2008-Q3,3.4,5.1,7.833333333333333,1,Wellington
+2008-Q4,3.5,3.4,6,-0.2,Wellington
+2009-Q1,4.7,3,3.3333333333333335,-1.1,Wellington
+2009-Q2,5.3,1.9,2.5,-1.7,Wellington
+2009-Q3,5.6,1.7,2.5,-1.8,Wellington
+2009-Q4,6,2,2.5,-1.2,Wellington
+2010-Q1,5.1,2,2.5,-0.1,Wellington
+2010-Q2,4.8,1.7,2.5833333333333335,1.1,Wellington
+2010-Q3,4.5,1.5,3,1.9,Wellington
+2010-Q4,4.9,4,3,1.8,Wellington
+2011-Q1,6.4,4.5,2.8333333333333335,1.5,Wellington
+2011-Q2,4.9,5.3,2.5,1,Wellington
+2011-Q3,5.1,4.6,2.5,1,Wellington
+2011-Q4,6.6,1.8,2.5,1.8,Wellington
+2012-Q1,5.6,1.6,2.5,2.3,Wellington
+2012-Q2,5.9,1,2.5,2.7,Wellington
+2012-Q3,6.5,0.8,2.5,2.6,Wellington
+2012-Q4,7.1,0.9,2.5,2.5,Wellington
+2013-Q1,6.3,0.9,2.5,2.2,Wellington
+2013-Q2,6,0.7,2.5,2.3,Wellington
+2013-Q3,5.5,1.4,2.5,2.6,Wellington
+2013-Q4,6.1,1.6,2.5,2.3,Wellington
+2014-Q1,5.1,1.5,2.5833333333333335,2.7,Wellington
+2014-Q2,5,1.6,3.0833333333333335,2.7,Wellington
+2014-Q3,5.2,1,3.5,2.9,Wellington
+2014-Q4,5.5,0.8,3.5,3.8,Wellington
+2015-Q1,5.7,0.3,3.5,3.8,Wellington
+2015-Q2,5.2,0.4,3.4166666666666665,4.1,Wellington
+2015-Q3,6.3,0.4,2.9166666666666665,4.1,Wellington
+2015-Q4,5.3,0.1,2.6666666666666665,3.7,Wellington
+2016-Q1,5.9,0.4,2.4166666666666665,3.7,Wellington
+2016-Q2,5.3,0.4,2.25,3.8,Wellington
+2016-Q3,4.7,0.4,2.0833333333333335,3.9,Wellington
+2016-Q4,5.6,1.3,1.8333333333333333,4,Wellington
+2017-Q1,5.1,2.2,1.75,3.8,Wellington
+2017-Q2,4.9,1.7,1.75,3.6,Wellington
+2017-Q3,4.6,1.9,1.75,3.4,Wellington
+2017-Q4,3.8,1.6,1.75,3.5,Wellington
+2018-Q1,4.8,1.1,1.75,3.6,Wellington
+2018-Q2,4.7,1.5,1.75,3.6,Wellington
+2018-Q3,4.4,1.9,1.75,3.5,Wellington
+2018-Q4,4.4,1.9,1.75,3.4,Wellington
+2019-Q1,3.7,1.5,1.75,3.4,Wellington
+2019-Q2,3.4,1.7,1.5833333333333333,3.1,Wellington
+2019-Q3,2.9,1.5,1.1666666666666667,3.2,Wellington
+2019-Q4,3.9,1.9,1,2.9,Wellington
+2020-Q1,4.5,2.5,0.75,2.2,Wellington
+2020-Q2,4.1,1.5,0.25,-1,Wellington
+2020-Q3,4.9,1.4,0.25,-1.6,Wellington
+2020-Q4,4.6,1.4,0.25,-2.1,Wellington
+2021-Q1,4.6,1.5,0.25,-1.4,Wellington
+2021-Q2,4,3.3,0.25,5.2,Wellington
+2021-Q3,2.9,4.9,0.25,4.8,Wellington
+2021-Q4,2.9,5.9,0.6666666666666666,5.6,Wellington
+1999-Q1,6.1,-0.1,4.5,0.8,Tasman / Nelson / Marlborough / West Coast
+1999-Q2,5.8,-0.4,4.5,1.7,Tasman / Nelson / Marlborough / West Coast
+1999-Q3,6.8,-0.5,4.5,3.2,Tasman / Nelson / Marlborough / West Coast
+1999-Q4,6.4,0.5,4.833333333333333,4.5,Tasman / Nelson / Marlborough / West Coast
+2000-Q1,4.9,1.5,5.416666666666667,5.5,Tasman / Nelson / Marlborough / West Coast
+2000-Q2,5.5,2,6.333333333333333,6.1,Tasman / Nelson / Marlborough / West Coast
+2000-Q3,4.6,3,6.5,5.3,Tasman / Nelson / Marlborough / West Coast
+2000-Q4,4.7,4,6.5,4.3,Tasman / Nelson / Marlborough / West Coast
+2001-Q1,3,3.1,6.416666666666667,2.9,Tasman / Nelson / Marlborough / West Coast
+2001-Q2,2.5,3.2,5.833333333333333,2.2,Tasman / Nelson / Marlborough / West Coast
+2001-Q3,4.6,2.4,5.583333333333333,2.1,Tasman / Nelson / Marlborough / West Coast
+2001-Q4,4.1,1.8,4.916666666666667,2.6,Tasman / Nelson / Marlborough / West Coast
+2002-Q1,3.6,2.6,4.833333333333333,3.5,Tasman / Nelson / Marlborough / West Coast
+2002-Q2,4.1,2.8,5.416666666666667,4,Tasman / Nelson / Marlborough / West Coast
+2002-Q3,2.3,2.6,5.75,4.5,Tasman / Nelson / Marlborough / West Coast
+2002-Q4,4.2,2.7,5.75,4.7,Tasman / Nelson / Marlborough / West Coast
+2003-Q1,3.5,2.5,5.75,4.7,Tasman / Nelson / Marlborough / West Coast
+2003-Q2,3,1.5,5.416666666666667,4.4,Tasman / Nelson / Marlborough / West Coast
+2003-Q3,3.8,1.5,5,4.3,Tasman / Nelson / Marlborough / West Coast
+2003-Q4,3.6,1.6,5,4.2,Tasman / Nelson / Marlborough / West Coast
+2004-Q1,2.8,1.5,5.25,4.6,Tasman / Nelson / Marlborough / West Coast
+2004-Q2,3.3,2.4,5.583333333333333,5.2,Tasman / Nelson / Marlborough / West Coast
+2004-Q3,1.9,2.5,6.083333333333333,5.1,Tasman / Nelson / Marlborough / West Coast
+2004-Q4,2.3,2.7,6.5,4.8,Tasman / Nelson / Marlborough / West Coast
+2005-Q1,2.7,2.8,6.583333333333333,4,Tasman / Nelson / Marlborough / West Coast
+2005-Q2,2.4,2.8,6.75,3.4,Tasman / Nelson / Marlborough / West Coast
+2005-Q3,2.5,3.4,6.75,3.2,Tasman / Nelson / Marlborough / West Coast
+2005-Q4,3.3,3.2,7.083333333333333,3.2,Tasman / Nelson / Marlborough / West Coast
+2006-Q1,4.1,3.3,7.25,3.3,Tasman / Nelson / Marlborough / West Coast
+2006-Q2,2.2,4,7.25,3,Tasman / Nelson / Marlborough / West Coast
+2006-Q3,3.1,3.5,7.25,2.7,Tasman / Nelson / Marlborough / West Coast
+2006-Q4,3.1,2.6,7.25,2.9,Tasman / Nelson / Marlborough / West Coast
+2007-Q1,2.4,2.5,7.333333333333333,2.9,Tasman / Nelson / Marlborough / West Coast
+2007-Q2,3.3,2,7.833333333333333,3.2,Tasman / Nelson / Marlborough / West Coast
+2007-Q3,2.5,1.8,8.25,3.6,Tasman / Nelson / Marlborough / West Coast
+2007-Q4,2.7,3.2,8.25,3.5,Tasman / Nelson / Marlborough / West Coast
+2008-Q1,3.4,3.4,8.25,3,Tasman / Nelson / Marlborough / West Coast
+2008-Q2,2.9,4,8.25,2.2,Tasman / Nelson / Marlborough / West Coast
+2008-Q3,3.2,5.1,7.833333333333333,1,Tasman / Nelson / Marlborough / West Coast
+2008-Q4,3.3,3.4,6,-0.2,Tasman / Nelson / Marlborough / West Coast
+2009-Q1,2.9,3,3.3333333333333335,-1.1,Tasman / Nelson / Marlborough / West Coast
+2009-Q2,3.1,1.9,2.5,-1.7,Tasman / Nelson / Marlborough / West Coast
+2009-Q3,4,1.7,2.5,-1.8,Tasman / Nelson / Marlborough / West Coast
+2009-Q4,4.4,2,2.5,-1.2,Tasman / Nelson / Marlborough / West Coast
+2010-Q1,4.7,2,2.5,-0.1,Tasman / Nelson / Marlborough / West Coast
+2010-Q2,3.2,1.7,2.5833333333333335,1.1,Tasman / Nelson / Marlborough / West Coast
+2010-Q3,3.8,1.5,3,1.9,Tasman / Nelson / Marlborough / West Coast
+2010-Q4,4.4,4,3,1.8,Tasman / Nelson / Marlborough / West Coast
+2011-Q1,5.1,4.5,2.8333333333333335,1.5,Tasman / Nelson / Marlborough / West Coast
+2011-Q2,4,5.3,2.5,1,Tasman / Nelson / Marlborough / West Coast
+2011-Q3,3.8,4.6,2.5,1,Tasman / Nelson / Marlborough / West Coast
+2011-Q4,4.7,1.8,2.5,1.8,Tasman / Nelson / Marlborough / West Coast
+2012-Q1,5.5,1.6,2.5,2.3,Tasman / Nelson / Marlborough / West Coast
+2012-Q2,4.3,1,2.5,2.7,Tasman / Nelson / Marlborough / West Coast
+2012-Q3,4.3,0.8,2.5,2.6,Tasman / Nelson / Marlborough / West Coast
+2012-Q4,5.8,0.9,2.5,2.5,Tasman / Nelson / Marlborough / West Coast
+2013-Q1,4.7,0.9,2.5,2.2,Tasman / Nelson / Marlborough / West Coast
+2013-Q2,4,0.7,2.5,2.3,Tasman / Nelson / Marlborough / West Coast
+2013-Q3,3.9,1.4,2.5,2.6,Tasman / Nelson / Marlborough / West Coast
+2013-Q4,4.2,1.6,2.5,2.3,Tasman / Nelson / Marlborough / West Coast
+2014-Q1,4.9,1.5,2.5833333333333335,2.7,Tasman / Nelson / Marlborough / West Coast
+2014-Q2,4,1.6,3.0833333333333335,2.7,Tasman / Nelson / Marlborough / West Coast
+2014-Q3,3.3,1,3.5,2.9,Tasman / Nelson / Marlborough / West Coast
+2014-Q4,6.1,0.8,3.5,3.8,Tasman / Nelson / Marlborough / West Coast
+2015-Q1,4.3,0.3,3.5,3.8,Tasman / Nelson / Marlborough / West Coast
+2015-Q2,4.3,0.4,3.4166666666666665,4.1,Tasman / Nelson / Marlborough / West Coast
+2015-Q3,5,0.4,2.9166666666666665,4.1,Tasman / Nelson / Marlborough / West Coast
+2015-Q4,4.1,0.1,2.6666666666666665,3.7,Tasman / Nelson / Marlborough / West Coast
+2016-Q1,5.1,0.4,2.4166666666666665,3.7,Tasman / Nelson / Marlborough / West Coast
+2016-Q2,5.9,0.4,2.25,3.8,Tasman / Nelson / Marlborough / West Coast
+2016-Q3,2.7,0.4,2.0833333333333335,3.9,Tasman / Nelson / Marlborough / West Coast
+2016-Q4,4.1,1.3,1.8333333333333333,4,Tasman / Nelson / Marlborough / West Coast
+2017-Q1,2.7,2.2,1.75,3.8,Tasman / Nelson / Marlborough / West Coast
+2017-Q2,2.9,1.7,1.75,3.6,Tasman / Nelson / Marlborough / West Coast
+2017-Q3,2.2,1.9,1.75,3.4,Tasman / Nelson / Marlborough / West Coast
+2017-Q4,3.4,1.6,1.75,3.5,Tasman / Nelson / Marlborough / West Coast
+2018-Q1,3.6,1.1,1.75,3.6,Tasman / Nelson / Marlborough / West Coast
+2018-Q2,4.7,1.5,1.75,3.6,Tasman / Nelson / Marlborough / West Coast
+2018-Q3,4,1.9,1.75,3.5,Tasman / Nelson / Marlborough / West Coast
+2018-Q4,4.5,1.9,1.75,3.4,Tasman / Nelson / Marlborough / West Coast
+2019-Q1,3.3,1.5,1.75,3.4,Tasman / Nelson / Marlborough / West Coast
+2019-Q2,3.2,1.7,1.5833333333333333,3.1,Tasman / Nelson / Marlborough / West Coast
+2019-Q3,3.4,1.5,1.1666666666666667,3.2,Tasman / Nelson / Marlborough / West Coast
+2019-Q4,4.2,1.9,1,2.9,Tasman / Nelson / Marlborough / West Coast
+2020-Q1,2.7,2.5,0.75,2.2,Tasman / Nelson / Marlborough / West Coast
+2020-Q2,2.4,1.5,0.25,-1,Tasman / Nelson / Marlborough / West Coast
+2020-Q3,3.6,1.4,0.25,-1.6,Tasman / Nelson / Marlborough / West Coast
+2020-Q4,3.1,1.4,0.25,-2.1,Tasman / Nelson / Marlborough / West Coast
+2021-Q1,3.3,1.5,0.25,-1.4,Tasman / Nelson / Marlborough / West Coast
+2021-Q2,3.6,3.3,0.25,5.2,Tasman / Nelson / Marlborough / West Coast
+2021-Q3,3.6,4.9,0.25,4.8,Tasman / Nelson / Marlborough / West Coast
+2021-Q4,3.2,5.9,0.6666666666666666,5.6,Tasman / Nelson / Marlborough / West Coast
+1999-Q1,7.8,-0.1,4.5,0.8,Canterbury
+1999-Q2,7.2,-0.4,4.5,1.7,Canterbury
+1999-Q3,7,-0.5,4.5,3.2,Canterbury
+1999-Q4,6.7,0.5,4.833333333333333,4.5,Canterbury
+2000-Q1,5.9,1.5,5.416666666666667,5.5,Canterbury
+2000-Q2,6.2,2,6.333333333333333,6.1,Canterbury
+2000-Q3,5.5,3,6.5,5.3,Canterbury
+2000-Q4,5.4,4,6.5,4.3,Canterbury
+2001-Q1,6,3.1,6.416666666666667,2.9,Canterbury
+2001-Q2,5.8,3.2,5.833333333333333,2.2,Canterbury
+2001-Q3,5.2,2.4,5.583333333333333,2.1,Canterbury
+2001-Q4,4.9,1.8,4.916666666666667,2.6,Canterbury
+2002-Q1,5.5,2.6,4.833333333333333,3.5,Canterbury
+2002-Q2,4.7,2.8,5.416666666666667,4,Canterbury
+2002-Q3,5.6,2.6,5.75,4.5,Canterbury
+2002-Q4,4.2,2.7,5.75,4.7,Canterbury
+2003-Q1,4.4,2.5,5.75,4.7,Canterbury
+2003-Q2,4.3,1.5,5.416666666666667,4.4,Canterbury
+2003-Q3,4.4,1.5,5,4.3,Canterbury
+2003-Q4,3.7,1.6,5,4.2,Canterbury
+2004-Q1,4.4,1.5,5.25,4.6,Canterbury
+2004-Q2,4,2.4,5.583333333333333,5.2,Canterbury
+2004-Q3,3.6,2.5,6.083333333333333,5.1,Canterbury
+2004-Q4,3.1,2.7,6.5,4.8,Canterbury
+2005-Q1,4,2.8,6.583333333333333,4,Canterbury
+2005-Q2,2.6,2.8,6.75,3.4,Canterbury
+2005-Q3,3,3.4,6.75,3.2,Canterbury
+2005-Q4,2.4,3.2,7.083333333333333,3.2,Canterbury
+2006-Q1,3.8,3.3,7.25,3.3,Canterbury
+2006-Q2,2.7,4,7.25,3,Canterbury
+2006-Q3,2.9,3.5,7.25,2.7,Canterbury
+2006-Q4,2.9,2.6,7.25,2.9,Canterbury
+2007-Q1,3.3,2.5,7.333333333333333,2.9,Canterbury
+2007-Q2,3.1,2,7.833333333333333,3.2,Canterbury
+2007-Q3,2.6,1.8,8.25,3.6,Canterbury
+2007-Q4,2.4,3.2,8.25,3.5,Canterbury
+2008-Q1,2.7,3.4,8.25,3,Canterbury
+2008-Q2,3.1,4,8.25,2.2,Canterbury
+2008-Q3,3,5.1,7.833333333333333,1,Canterbury
+2008-Q4,3.3,3.4,6,-0.2,Canterbury
+2009-Q1,4.5,3,3.3333333333333335,-1.1,Canterbury
+2009-Q2,4.7,1.9,2.5,-1.7,Canterbury
+2009-Q3,5.3,1.7,2.5,-1.8,Canterbury
+2009-Q4,4.9,2,2.5,-1.2,Canterbury
+2010-Q1,5.3,2,2.5,-0.1,Canterbury
+2010-Q2,4.5,1.7,2.5833333333333335,1.1,Canterbury
+2010-Q3,4.7,1.5,3,1.9,Canterbury
+2010-Q4,5.4,4,3,1.8,Canterbury
+2011-Q1,4.9,4.5,2.8333333333333335,1.5,Canterbury
+2011-Q2,5.3,5.3,2.5,1,Canterbury
+2011-Q3,4.9,4.6,2.5,1,Canterbury
+2011-Q4,4.4,1.8,2.5,1.8,Canterbury
+2012-Q1,4.8,1.6,2.5,2.3,Canterbury
+2012-Q2,6.1,1,2.5,2.7,Canterbury
+2012-Q3,4.8,0.8,2.5,2.6,Canterbury
+2012-Q4,4.4,0.9,2.5,2.5,Canterbury
+2013-Q1,4,0.9,2.5,2.2,Canterbury
+2013-Q2,4,0.7,2.5,2.3,Canterbury
+2013-Q3,3.9,1.4,2.5,2.6,Canterbury
+2013-Q4,3.1,1.6,2.5,2.3,Canterbury
+2014-Q1,3.2,1.5,2.5833333333333335,2.7,Canterbury
+2014-Q2,2.6,1.6,3.0833333333333335,2.7,Canterbury
+2014-Q3,3.1,1,3.5,2.9,Canterbury
+2014-Q4,3.4,0.8,3.5,3.8,Canterbury
+2015-Q1,2.8,0.3,3.5,3.8,Canterbury
+2015-Q2,3.1,0.4,3.4166666666666665,4.1,Canterbury
+2015-Q3,3.6,0.4,2.9166666666666665,4.1,Canterbury
+2015-Q4,3.4,0.1,2.6666666666666665,3.7,Canterbury
+2016-Q1,2.7,0.4,2.4166666666666665,3.7,Canterbury
+2016-Q2,3.2,0.4,2.25,3.8,Canterbury
+2016-Q3,3.9,0.4,2.0833333333333335,3.9,Canterbury
+2016-Q4,3.6,1.3,1.8333333333333333,4,Canterbury
+2017-Q1,4,2.2,1.75,3.8,Canterbury
+2017-Q2,3.8,1.7,1.75,3.6,Canterbury
+2017-Q3,3.6,1.9,1.75,3.4,Canterbury
+2017-Q4,4,1.6,1.75,3.5,Canterbury
+2018-Q1,3.6,1.1,1.75,3.6,Canterbury
+2018-Q2,4,1.5,1.75,3.6,Canterbury
+2018-Q3,3.5,1.9,1.75,3.5,Canterbury
+2018-Q4,3.7,1.9,1.75,3.4,Canterbury
+2019-Q1,4,1.5,1.75,3.4,Canterbury
+2019-Q2,3.5,1.7,1.5833333333333333,3.1,Canterbury
+2019-Q3,3.6,1.5,1.1666666666666667,3.2,Canterbury
+2019-Q4,3.6,1.9,1,2.9,Canterbury
+2020-Q1,4,2.5,0.75,2.2,Canterbury
+2020-Q2,3.8,1.5,0.25,-1,Canterbury
+2020-Q3,4.5,1.4,0.25,-1.6,Canterbury
+2020-Q4,4.3,1.4,0.25,-2.1,Canterbury
+2021-Q1,4.5,1.5,0.25,-1.4,Canterbury
+2021-Q2,3.9,3.3,0.25,5.2,Canterbury
+2021-Q3,3.4,4.9,0.25,4.8,Canterbury
+2021-Q4,3.2,5.9,0.6666666666666666,5.6,Canterbury
+1999-Q1,7.6,-0.1,4.5,0.8,Otago
+1999-Q2,6.9,-0.4,4.5,1.7,Otago
+1999-Q3,6.9,-0.5,4.5,3.2,Otago
+1999-Q4,6,0.5,4.833333333333333,4.5,Otago
+2000-Q1,6.6,1.5,5.416666666666667,5.5,Otago
+2000-Q2,6.3,2,6.333333333333333,6.1,Otago
+2000-Q3,5.2,3,6.5,5.3,Otago
+2000-Q4,5.7,4,6.5,4.3,Otago
+2001-Q1,5.3,3.1,6.416666666666667,2.9,Otago
+2001-Q2,6,3.2,5.833333333333333,2.2,Otago
+2001-Q3,6.7,2.4,5.583333333333333,2.1,Otago
+2001-Q4,4.1,1.8,4.916666666666667,2.6,Otago
+2002-Q1,6.4,2.6,4.833333333333333,3.5,Otago
+2002-Q2,5.6,2.8,5.416666666666667,4,Otago
+2002-Q3,6.5,2.6,5.75,4.5,Otago
+2002-Q4,5.3,2.7,5.75,4.7,Otago
+2003-Q1,5.8,2.5,5.75,4.7,Otago
+2003-Q2,5.5,1.5,5.416666666666667,4.4,Otago
+2003-Q3,5.8,1.5,5,4.3,Otago
+2003-Q4,5.6,1.6,5,4.2,Otago
+2004-Q1,4.3,1.5,5.25,4.6,Otago
+2004-Q2,4.6,2.4,5.583333333333333,5.2,Otago
+2004-Q3,3.2,2.5,6.083333333333333,5.1,Otago
+2004-Q4,3.3,2.7,6.5,4.8,Otago
+2005-Q1,4.5,2.8,6.583333333333333,4,Otago
+2005-Q2,4.1,2.8,6.75,3.4,Otago
+2005-Q3,2.8,3.4,6.75,3.2,Otago
+2005-Q4,3.2,3.2,7.083333333333333,3.2,Otago
+2006-Q1,5.2,3.3,7.25,3.3,Otago
+2006-Q2,3.1,4,7.25,3,Otago
+2006-Q3,3.4,3.5,7.25,2.7,Otago
+2006-Q4,3.5,2.6,7.25,2.9,Otago
+2007-Q1,3.1,2.5,7.333333333333333,2.9,Otago
+2007-Q2,3.5,2,7.833333333333333,3.2,Otago
+2007-Q3,3.1,1.8,8.25,3.6,Otago
+2007-Q4,3,3.2,8.25,3.5,Otago
+2008-Q1,2.4,3.4,8.25,3,Otago
+2008-Q2,4.2,4,8.25,2.2,Otago
+2008-Q3,2.5,5.1,7.833333333333333,1,Otago
+2008-Q4,2.9,3.4,6,-0.2,Otago
+2009-Q1,4,3,3.3333333333333335,-1.1,Otago
+2009-Q2,5,1.9,2.5,-1.7,Otago
+2009-Q3,5.4,1.7,2.5,-1.8,Otago
+2009-Q4,3.8,2,2.5,-1.2,Otago
+2010-Q1,5.9,2,2.5,-0.1,Otago
+2010-Q2,4.6,1.7,2.5833333333333335,1.1,Otago
+2010-Q3,3.5,1.5,3,1.9,Otago
+2010-Q4,4.3,4,3,1.8,Otago
+2011-Q1,4,4.5,2.8333333333333335,1.5,Otago
+2011-Q2,4.7,5.3,2.5,1,Otago
+2011-Q3,4.1,4.6,2.5,1,Otago
+2011-Q4,4.4,1.8,2.5,1.8,Otago
+2012-Q1,4.8,1.6,2.5,2.3,Otago
+2012-Q2,4.3,1,2.5,2.7,Otago
+2012-Q3,4.7,0.8,2.5,2.6,Otago
+2012-Q4,4.1,0.9,2.5,2.5,Otago
+2013-Q1,4.5,0.9,2.5,2.2,Otago
+2013-Q2,5.7,0.7,2.5,2.3,Otago
+2013-Q3,4.7,1.4,2.5,2.6,Otago
+2013-Q4,4,1.6,2.5,2.3,Otago
+2014-Q1,4.5,1.5,2.5833333333333335,2.7,Otago
+2014-Q2,3.1,1.6,3.0833333333333335,2.7,Otago
+2014-Q3,3.3,1,3.5,2.9,Otago
+2014-Q4,3.8,0.8,3.5,3.8,Otago
+2015-Q1,3.3,0.3,3.5,3.8,Otago
+2015-Q2,3.8,0.4,3.4166666666666665,4.1,Otago
+2015-Q3,3.8,0.4,2.9166666666666665,4.1,Otago
+2015-Q4,4.1,0.1,2.6666666666666665,3.7,Otago
+2016-Q1,4.4,0.4,2.4166666666666665,3.7,Otago
+2016-Q2,4.5,0.4,2.25,3.8,Otago
+2016-Q3,3.6,0.4,2.0833333333333335,3.9,Otago
+2016-Q4,4,1.3,1.8333333333333333,4,Otago
+2017-Q1,4.3,2.2,1.75,3.8,Otago
+2017-Q2,4.9,1.7,1.75,3.6,Otago
+2017-Q3,3.9,1.9,1.75,3.4,Otago
+2017-Q4,4.5,1.6,1.75,3.5,Otago
+2018-Q1,4.6,1.1,1.75,3.6,Otago
+2018-Q2,3.4,1.5,1.75,3.6,Otago
+2018-Q3,3.8,1.9,1.75,3.5,Otago
+2018-Q4,3.6,1.9,1.75,3.4,Otago
+2019-Q1,3.3,1.5,1.75,3.4,Otago
+2019-Q2,2.9,1.7,1.5833333333333333,3.1,Otago
+2019-Q3,3,1.5,1.1666666666666667,3.2,Otago
+2019-Q4,3.8,1.9,1,2.9,Otago
+2020-Q1,3.8,2.5,0.75,2.2,Otago
+2020-Q2,4.6,1.5,0.25,-1,Otago
+2020-Q3,5.1,1.4,0.25,-1.6,Otago
+2020-Q4,3.9,1.4,0.25,-2.1,Otago
+2021-Q1,4.5,1.5,0.25,-1.4,Otago
+2021-Q2,3,3.3,0.25,5.2,Otago
+2021-Q3,2.7,4.9,0.25,4.8,Otago
+2021-Q4,2.8,5.9,0.6666666666666666,5.6,Otago
+1999-Q1,6.1,-0.1,4.5,0.8,Southland
+1999-Q2,6.1,-0.4,4.5,1.7,Southland
+1999-Q3,5.7,-0.5,4.5,3.2,Southland
+1999-Q4,6.4,0.5,4.833333333333333,4.5,Southland
+2000-Q1,6.7,1.5,5.416666666666667,5.5,Southland
+2000-Q2,4.7,2,6.333333333333333,6.1,Southland
+2000-Q3,5,3,6.5,5.3,Southland
+2000-Q4,5.7,4,6.5,4.3,Southland
+2001-Q1,2.9,3.1,6.416666666666667,2.9,Southland
+2001-Q2,3.3,3.2,5.833333333333333,2.2,Southland
+2001-Q3,2.7,2.4,5.583333333333333,2.1,Southland
+2001-Q4,4.9,1.8,4.916666666666667,2.6,Southland
+2002-Q1,3.7,2.6,4.833333333333333,3.5,Southland
+2002-Q2,2.8,2.8,5.416666666666667,4,Southland
+2002-Q3,3.8,2.6,5.75,4.5,Southland
+2002-Q4,4,2.7,5.75,4.7,Southland
+2003-Q1,3.4,2.5,5.75,4.7,Southland
+2003-Q2,3.6,1.5,5.416666666666667,4.4,Southland
+2003-Q3,3,1.5,5,4.3,Southland
+2003-Q4,4.4,1.6,5,4.2,Southland
+2004-Q1,3,1.5,5.25,4.6,Southland
+2004-Q2,2.2,2.4,5.583333333333333,5.2,Southland
+2004-Q3,6.2,2.5,6.083333333333333,5.1,Southland
+2004-Q4,3.7,2.7,6.5,4.8,Southland
+2005-Q1,3.5,2.8,6.583333333333333,4,Southland
+2005-Q2,2.5,2.8,6.75,3.4,Southland
+2005-Q3,2.1,3.4,6.75,3.2,Southland
+2005-Q4,2.8,3.2,7.083333333333333,3.2,Southland
+2006-Q1,3.5,3.3,7.25,3.3,Southland
+2006-Q2,2.6,4,7.25,3,Southland
+2006-Q3,3,3.5,7.25,2.7,Southland
+2006-Q4,2.7,2.6,7.25,2.9,Southland
+2007-Q1,3.3,2.5,7.333333333333333,2.9,Southland
+2007-Q2,1.9,2,7.833333333333333,3.2,Southland
+2007-Q3,2.5,1.8,8.25,3.6,Southland
+2007-Q4,1.7,3.2,8.25,3.5,Southland
+2008-Q1,2,3.4,8.25,3,Southland
+2008-Q2,2.2,4,8.25,2.2,Southland
+2008-Q3,3.3,5.1,7.833333333333333,1,Southland
+2008-Q4,2.6,3.4,6,-0.2,Southland
+2009-Q1,2.6,3,3.3333333333333335,-1.1,Southland
+2009-Q2,3.4,1.9,2.5,-1.7,Southland
+2009-Q3,3.4,1.7,2.5,-1.8,Southland
+2009-Q4,4.2,2,2.5,-1.2,Southland
+2010-Q1,3,2,2.5,-0.1,Southland
+2010-Q2,3.9,1.7,2.5833333333333335,1.1,Southland
+2010-Q3,4.4,1.5,3,1.9,Southland
+2010-Q4,5.4,4,3,1.8,Southland
+2011-Q1,3.7,4.5,2.8333333333333335,1.5,Southland
+2011-Q2,3.3,5.3,2.5,1,Southland
+2011-Q3,4.5,4.6,2.5,1,Southland
+2011-Q4,4.6,1.8,2.5,1.8,Southland
+2012-Q1,3.9,1.6,2.5,2.3,Southland
+2012-Q2,4,1,2.5,2.7,Southland
+2012-Q3,5.1,0.8,2.5,2.6,Southland
+2012-Q4,4.3,0.9,2.5,2.5,Southland
+2013-Q1,2.8,0.9,2.5,2.2,Southland
+2013-Q2,4.3,0.7,2.5,2.3,Southland
+2013-Q3,5.3,1.4,2.5,2.6,Southland
+2013-Q4,5.6,1.6,2.5,2.3,Southland
+2014-Q1,4.3,1.5,2.5833333333333335,2.7,Southland
+2014-Q2,3.1,1.6,3.0833333333333335,2.7,Southland
+2014-Q3,3.4,1,3.5,2.9,Southland
+2014-Q4,3.3,0.8,3.5,3.8,Southland
+2015-Q1,3.7,0.3,3.5,3.8,Southland
+2015-Q2,5.3,0.4,3.4166666666666665,4.1,Southland
+2015-Q3,5.2,0.4,2.9166666666666665,4.1,Southland
+2015-Q4,3.9,0.1,2.6666666666666665,3.7,Southland
+2016-Q1,4.5,0.4,2.4166666666666665,3.7,Southland
+2016-Q2,5,0.4,2.25,3.8,Southland
+2016-Q3,5.4,0.4,2.0833333333333335,3.9,Southland
+2016-Q4,5,1.3,1.8333333333333333,4,Southland
+2017-Q1,4.7,2.2,1.75,3.8,Southland
+2017-Q2,4.6,1.7,1.75,3.6,Southland
+2017-Q3,5.1,1.9,1.75,3.4,Southland
+2017-Q4,3.7,1.6,1.75,3.5,Southland
+2018-Q1,2.9,1.1,1.75,3.6,Southland
+2018-Q2,3,1.5,1.75,3.6,Southland
+2018-Q3,4.5,1.9,1.75,3.5,Southland
+2018-Q4,4.2,1.9,1.75,3.4,Southland
+2019-Q1,3.4,1.5,1.75,3.4,Southland
+2019-Q2,3.1,1.7,1.5833333333333333,3.1,Southland
+2019-Q3,4.6,1.5,1.1666666666666667,3.2,Southland
+2019-Q4,3.3,1.9,1,2.9,Southland
+2020-Q1,2.5,2.5,0.75,2.2,Southland
+2020-Q2,3.3,1.5,0.25,-1,Southland
+2020-Q3,4.1,1.4,0.25,-1.6,Southland
+2020-Q4,3.3,1.4,0.25,-2.1,Southland
+2021-Q1,3.5,1.5,0.25,-1.4,Southland
+2021-Q2,3.3,3.3,0.25,5.2,Southland
+2021-Q3,3.7,4.9,0.25,4.8,Southland
+2021-Q4,3.2,5.9,0.6666666666666666,5.6,Southland
+1999-Q1,8,-0.1,4.5,0.8,North Island
+1999-Q2,7.4,-0.4,4.5,1.7,North Island
+1999-Q3,6.8,-0.5,4.5,3.2,North Island
+1999-Q4,6.2,0.5,4.833333333333333,4.5,North Island
+2000-Q1,7.1,1.5,5.416666666666667,5.5,North Island
+2000-Q2,6.4,2,6.333333333333333,6.1,North Island
+2000-Q3,6.1,3,6.5,5.3,North Island
+2000-Q4,5.7,4,6.5,4.3,North Island
+2001-Q1,6,3.1,6.416666666666667,2.9,North Island
+2001-Q2,5.5,3.2,5.833333333333333,2.2,North Island
+2001-Q3,5.3,2.4,5.583333333333333,2.1,North Island
+2001-Q4,5.7,1.8,4.916666666666667,2.6,North Island
+2002-Q1,5.8,2.6,4.833333333333333,3.5,North Island
+2002-Q2,5.4,2.8,5.416666666666667,4,North Island
+2002-Q3,5.5,2.6,5.75,4.5,North Island
+2002-Q4,5,2.7,5.75,4.7,North Island
+2003-Q1,5.7,2.5,5.75,4.7,North Island
+2003-Q2,4.9,1.5,5.416666666666667,4.4,North Island
+2003-Q3,4.3,1.5,5,4.3,North Island
+2003-Q4,4.7,1.6,5,4.2,North Island
+2004-Q1,4.9,1.5,5.25,4.6,North Island
+2004-Q2,4.1,2.4,5.583333333333333,5.2,North Island
+2004-Q3,3.8,2.5,6.083333333333333,5.1,North Island
+2004-Q4,3.8,2.7,6.5,4.8,North Island
+2005-Q1,4.4,2.8,6.583333333333333,4,North Island
+2005-Q2,4,2.8,6.75,3.4,North Island
+2005-Q3,4,3.4,6.75,3.2,North Island
+2005-Q4,3.9,3.2,7.083333333333333,3.2,North Island
+2006-Q1,4.6,3.3,7.25,3.3,North Island
+2006-Q2,3.9,4,7.25,3,North Island
+2006-Q3,4,3.5,7.25,2.7,North Island
+2006-Q4,3.8,2.6,7.25,2.9,North Island
+2007-Q1,4.6,2.5,7.333333333333333,2.9,North Island
+2007-Q2,3.6,2,7.833333333333333,3.2,North Island
+2007-Q3,3.7,1.8,8.25,3.6,North Island
+2007-Q4,3.5,3.2,8.25,3.5,North Island
+2008-Q1,4.7,3.4,8.25,3,North Island
+2008-Q2,3.9,4,8.25,2.2,North Island
+2008-Q3,4.3,5.1,7.833333333333333,1,North Island
+2008-Q4,4.7,3.4,6,-0.2,North Island
+2009-Q1,5.9,3,3.3333333333333335,-1.1,North Island
+2009-Q2,6,1.9,2.5,-1.7,North Island
+2009-Q3,6.4,1.7,2.5,-1.8,North Island
+2009-Q4,7,2,2.5,-1.2,North Island
+2010-Q1,6.8,2,2.5,-0.1,North Island
+2010-Q2,7.1,1.7,2.5833333333333335,1.1,North Island
+2010-Q3,6.5,1.5,3,1.9,North Island
+2010-Q4,6.5,4,3,1.8,North Island
+2011-Q1,7,4.5,2.8333333333333335,1.5,North Island
+2011-Q2,6.3,5.3,2.5,1,North Island
+2011-Q3,6.3,4.6,2.5,1,North Island
+2011-Q4,6.4,1.8,2.5,1.8,North Island
+2012-Q1,7.3,1.6,2.5,2.3,North Island
+2012-Q2,6.6,1,2.5,2.7,North Island
+2012-Q3,7.3,0.8,2.5,2.6,North Island
+2012-Q4,6.9,0.9,2.5,2.5,North Island
+2013-Q1,6.8,0.9,2.5,2.2,North Island
+2013-Q2,6.4,0.7,2.5,2.3,North Island
+2013-Q3,6.3,1.4,2.5,2.6,North Island
+2013-Q4,6.2,1.6,2.5,2.3,North Island
+2014-Q1,6.6,1.5,2.5833333333333335,2.7,North Island
+2014-Q2,5.9,1.6,3.0833333333333335,2.7,North Island
+2014-Q3,5.9,1,3.5,2.9,North Island
+2014-Q4,6,0.8,3.5,3.8,North Island
+2015-Q1,6.6,0.3,3.5,3.8,North Island
+2015-Q2,6,0.4,3.4166666666666665,4.1,North Island
+2015-Q3,6,0.4,2.9166666666666665,4.1,North Island
+2015-Q4,5.3,0.1,2.6666666666666665,3.7,North Island
+2016-Q1,6.2,0.4,2.4166666666666665,3.7,North Island
+2016-Q2,5.2,0.4,2.25,3.8,North Island
+2016-Q3,5.2,0.4,2.0833333333333335,3.9,North Island
+2016-Q4,5.6,1.3,1.8333333333333333,4,North Island
+2017-Q1,5.6,2.2,1.75,3.8,North Island
+2017-Q2,4.9,1.7,1.75,3.6,North Island
+2017-Q3,4.9,1.9,1.75,3.4,North Island
+2017-Q4,4.6,1.6,1.75,3.5,North Island
+2018-Q1,4.9,1.1,1.75,3.6,North Island
+2018-Q2,4.6,1.5,1.75,3.6,North Island
+2018-Q3,3.9,1.9,1.75,3.5,North Island
+2018-Q4,4.5,1.9,1.75,3.4,North Island
+2019-Q1,4.7,1.5,1.75,3.4,North Island
+2019-Q2,4.1,1.7,1.5833333333333333,3.1,North Island
+2019-Q3,4.2,1.5,1.1666666666666667,3.2,North Island
+2019-Q4,4.2,1.9,1,2.9,North Island
+2020-Q1,4.8,2.5,0.75,2.2,North Island
+2020-Q2,4,1.5,0.25,-1,North Island
+2020-Q3,5.3,1.4,0.25,-1.6,North Island
+2020-Q4,5.2,1.4,0.25,-2.1,North Island
+2021-Q1,5.1,1.5,0.25,-1.4,North Island
+2021-Q2,4,3.3,0.25,5.2,North Island
+2021-Q3,3.2,4.9,0.25,4.8,North Island
+2021-Q4,3.2,5.9,0.6666666666666666,5.6,North Island
+1999-Q1,7.3,-0.1,4.5,0.8,South Island
+1999-Q2,6.8,-0.4,4.5,1.7,South Island
+1999-Q3,6.8,-0.5,4.5,3.2,South Island
+1999-Q4,6.5,0.5,4.833333333333333,4.5,South Island
+2000-Q1,5.9,1.5,5.416666666666667,5.5,South Island
+2000-Q2,6,2,6.333333333333333,6.1,South Island
+2000-Q3,5.2,3,6.5,5.3,South Island
+2000-Q4,5.4,4,6.5,4.3,South Island
+2001-Q1,5.1,3.1,6.416666666666667,2.9,South Island
+2001-Q2,5.1,3.2,5.833333333333333,2.2,South Island
+2001-Q3,5.2,2.4,5.583333333333333,2.1,South Island
+2001-Q4,4.6,1.8,4.916666666666667,2.6,South Island
+2002-Q1,5.2,2.6,4.833333333333333,3.5,South Island
+2002-Q2,4.6,2.8,5.416666666666667,4,South Island
+2002-Q3,5.1,2.6,5.75,4.5,South Island
+2002-Q4,4.4,2.7,5.75,4.7,South Island
+2003-Q1,4.4,2.5,5.75,4.7,South Island
+2003-Q2,4.3,1.5,5.416666666666667,4.4,South Island
+2003-Q3,4.5,1.5,5,4.3,South Island
+2003-Q4,4.1,1.6,5,4.2,South Island
+2004-Q1,4,1.5,5.25,4.6,South Island
+2004-Q2,3.8,2.4,5.583333333333333,5.2,South Island
+2004-Q3,3.5,2.5,6.083333333333333,5.1,South Island
+2004-Q4,3.1,2.7,6.5,4.8,South Island
+2005-Q1,3.8,2.8,6.583333333333333,4,South Island
+2005-Q2,2.9,2.8,6.75,3.4,South Island
+2005-Q3,2.8,3.4,6.75,3.2,South Island
+2005-Q4,2.7,3.2,7.083333333333333,3.2,South Island
+2006-Q1,4.1,3.3,7.25,3.3,South Island
+2006-Q2,2.7,4,7.25,3,South Island
+2006-Q3,3,3.5,7.25,2.7,South Island
+2006-Q4,3,2.6,7.25,2.9,South Island
+2007-Q1,3.1,2.5,7.333333333333333,2.9,South Island
+2007-Q2,3.1,2,7.833333333333333,3.2,South Island
+2007-Q3,2.7,1.8,8.25,3.6,South Island
+2007-Q4,2.5,3.2,8.25,3.5,South Island
+2008-Q1,2.7,3.4,8.25,3,South Island
+2008-Q2,3.2,4,8.25,2.2,South Island
+2008-Q3,2.9,5.1,7.833333333333333,1,South Island
+2008-Q4,3.1,3.4,6,-0.2,South Island
+2009-Q1,4,3,3.3333333333333335,-1.1,South Island
+2009-Q2,4.4,1.9,2.5,-1.7,South Island
+2009-Q3,4.9,1.7,2.5,-1.8,South Island
+2009-Q4,4.6,2,2.5,-1.2,South Island
+2010-Q1,5.1,2,2.5,-0.1,South Island
+2010-Q2,4.3,1.7,2.5833333333333335,1.1,South Island
+2010-Q3,4.3,1.5,3,1.9,South Island
+2010-Q4,5,4,3,1.8,South Island
+2011-Q1,4.6,4.5,2.8333333333333335,1.5,South Island
+2011-Q2,4.8,5.3,2.5,1,South Island
+2011-Q3,4.5,4.6,2.5,1,South Island
+2011-Q4,4.5,1.8,2.5,1.8,South Island
+2012-Q1,4.8,1.6,2.5,2.3,South Island
+2012-Q2,5.2,1,2.5,2.7,South Island
+2012-Q3,4.7,0.8,2.5,2.6,South Island
+2012-Q4,4.5,0.9,2.5,2.5,South Island
+2013-Q1,4.1,0.9,2.5,2.2,South Island
+2013-Q2,4.4,0.7,2.5,2.3,South Island
+2013-Q3,4.2,1.4,2.5,2.6,South Island
+2013-Q4,3.7,1.6,2.5,2.3,South Island
+2014-Q1,3.8,1.5,2.5833333333333335,2.7,South Island
+2014-Q2,3,1.6,3.0833333333333335,2.7,South Island
+2014-Q3,3.2,1,3.5,2.9,South Island
+2014-Q4,3.9,0.8,3.5,3.8,South Island
+2015-Q1,3.2,0.3,3.5,3.8,South Island
+2015-Q2,3.6,0.4,3.4166666666666665,4.1,South Island
+2015-Q3,4,0.4,2.9166666666666665,4.1,South Island
+2015-Q4,3.7,0.1,2.6666666666666665,3.7,South Island
+2016-Q1,3.6,0.4,2.4166666666666665,3.7,South Island
+2016-Q2,4.1,0.4,2.25,3.8,South Island
+2016-Q3,3.8,0.4,2.0833333333333335,3.9,South Island
+2016-Q4,3.9,1.3,1.8333333333333333,4,South Island
+2017-Q1,3.9,2.2,1.75,3.8,South Island
+2017-Q2,4,1.7,1.75,3.6,South Island
+2017-Q3,3.6,1.9,1.75,3.4,South Island
+2017-Q4,4,1.6,1.75,3.5,South Island
+2018-Q1,3.7,1.1,1.75,3.6,South Island
+2018-Q2,3.9,1.5,1.75,3.6,South Island
+2018-Q3,3.7,1.9,1.75,3.5,South Island
+2018-Q4,3.9,1.9,1.75,3.4,South Island
+2019-Q1,3.7,1.5,1.75,3.4,South Island
+2019-Q2,3.3,1.7,1.5833333333333333,3.1,South Island
+2019-Q3,3.6,1.5,1.1666666666666667,3.2,South Island
+2019-Q4,3.8,1.9,1,2.9,South Island
+2020-Q1,3.6,2.5,0.75,2.2,South Island
+2020-Q2,3.7,1.5,0.25,-1,South Island
+2020-Q3,4.4,1.4,0.25,-1.6,South Island
+2020-Q4,3.9,1.4,0.25,-2.1,South Island
+2021-Q1,4.2,1.5,0.25,-1.4,South Island
+2021-Q2,3.6,3.3,0.25,5.2,South Island
+2021-Q3,3.3,4.9,0.25,4.8,South Island
+2021-Q4,3.1,5.9,0.6666666666666666,5.6,South Island
