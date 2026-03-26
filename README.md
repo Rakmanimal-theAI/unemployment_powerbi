@@ -1,62 +1,123 @@
-# New Zealand Economic Dashboard: Unemployment & Economic Indicators Analysis
+# 📊 New Zealand Unemployment Analysis (1999–2022)
 
-<img width="663" height="411" alt="image" src="https://github.com/user-attachments/assets/96ce632e-dc0d-415b-a2af-1cdad24295c6" />
+An end-to-end data analytics project analysing New Zealand unemployment trends, economic drivers, and regional inequality — built in Power BI with data sourced from Stats NZ, RBNZ, and the World Bank.
 
-<img width="884" height="341" alt="image" src="https://github.com/user-attachments/assets/d5920ea6-b654-4006-a4b5-7de11c15e89d" />
+---
 
-<img width="771" height="367" alt="image" src="https://github.com/user-attachments/assets/245a4299-9391-4fa4-b63b-ec651a789fc1" />
+## 🖼️ Dashboard Preview
 
+### Page 1 — Overview
+![Overview](screenshots/overview.png)
 
-An interactive Power BI dashboard analyzing the relationship between unemployment rates and key economic indicators in New Zealand, featuring predictive forecasting and regional comparisons.
+### Page 2 — Economic Drivers
+![Economic Drivers](screenshots/economic_drivers.png)
 
-## 📊 Project Overview
+### Page 3 — Regional Unemployment
+![Regional View](screenshots/regional_view.png)
 
-This project explores the economic landscape of New Zealand through data-driven visualization and analysis. By combining multiple authoritative data sources, I've created an interactive dashboard that tracks unemployment trends alongside critical economic indicators like inflation, GDP, and interest rates over a 20+ year period.
+---
 
-### Key Features
-- **Time Series Analysis**: 20+ years of quarterly economic data with built-in forecasting
-- **Economic Correlation Analysis**: Interactive scatter plots showing relationships between unemployment and key economic drivers
-- **Regional Comparisons**: Geographical breakdown comparing unemployment across NZ regions
-- **Predictive Insights**: 4-8 quarter unemployment forecasting using Power BI's built-in analytics
-- **Interactive Dashboard**: Fully interactive with slicers for date ranges and region selection
+## 🎯 Project Objectives
 
-## 🗂️ Data Sources
+- Track New Zealand's unemployment rate over 23 years (1999–2022)
+- Forecast future unemployment trends using Power BI's built-in forecasting
+- Identify relationships between unemployment and key economic indicators (CPI, OCR, GDP)
+- Compare unemployment inequality across New Zealand regions
 
-| Source | Data | Time Period |
-|--------|------|-------------|
-| Stats NZ (Infoshare) | Quarterly unemployment rates with regional breakdowns | 2000-2024 |
-| Reserve Bank of New Zealand (RBNZ) | Official cash rate, CPI inflation data | 2000-2024 |
-| World Bank | New Zealand GDP growth rates | 2000-2024 |
+---
 
-## 🛠️ Technology Stack
+## 🔍 Key Insights
 
-- **Data Processing**: Python (Pandas) for data cleaning and transformation
-- **Visualization**: Microsoft Power BI
-- **Data Analysis**: DAX (Data Analysis Expressions)
-- **Forecasting**: Power BI built-in forecasting engine
+- **NZ unemployment peaked during the 2008 Global Financial Crisis and the COVID-19 period**, reaching a maximum of 14% at the regional level
+- **Rising OCR and falling GDP growth are associated with higher unemployment**, visible through trend lines across scatter plots
+- **Northland and Gisborne consistently show higher unemployment than Auckland**, highlighting persistent regional inequality across New Zealand
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Python (pandas) | Data cleaning, merging datasets, date formatting |
+| Excel | Initial data exploration and inspection |
+| Power BI Desktop | Data modelling, DAX measures, dashboard building |
+| Power Query | Data transformation and type casting |
+| DAX | Custom measures (averages, min/max, YoY change) |
+
+---
+
+## 📦 Data Sources
+
+| Source | Data | Period |
+|---|---|---|
+| [Stats NZ — Infoshare (HLFS)](https://infoshare.stats.govt.nz) | Unemployment rate by region and quarter | 1999–2022 |
+| [RBNZ](https://www.rbnz.govt.nz) | Official Cash Rate (OCR) and CPI inflation | 1999–2022 |
+| [World Bank](https://data.worldbank.org) | NZ GDP growth (annual %) | 1999–2022 |
+
+> All datasets were aligned to a common 1999 Q1 – 2022 Q4 window. Annual figures (GDP, CPI) were repeated across quarters within each year as standard practice.
+
+---
 
 ## 📁 Project Structure
 
-## 🔄 Data Processing Workflow
+```
+├── data/
+│   ├── raw/                  # Original downloaded files from Stats NZ, RBNZ, World Bank
+│   └── cleaned/              # Master CSV after Python cleaning
+├── notebooks/
+│   └── data_cleaning.py      # Python script for merging and cleaning
+├── powerbi/
+│   └── nz_unemployment.pbix  # Power BI project file
+├── screenshots/
+│   ├── overview.png
+│   ├── economic_drivers.png
+│   └── regional_view.png
+└── README.md
+```
 
-### 1. Data Collection
-Data was downloaded from official NZ government sources (Stats NZ, RBNZ) and the World Bank covering 2000-2024.
+---
 
-### 2. Data Cleaning (Python)
+## ⚙️ Data Preparation Steps
 
-#### Key cleaning steps performed:
-- Standardized date formats to YYYY-QQ format
-- Harmonized regional naming conventions across datasets
-- Handled missing values using forward-fill methodology
-- Merged all datasets into a single master table
-- Validated data consistency and outlier detection
+1. Downloaded unemployment by region (quarterly) from Stats NZ HLFS
+2. Downloaded OCR and CPI from RBNZ
+3. Downloaded GDP growth from World Bank
+4. Cleaned and merged all datasets in Python using pandas:
+   - Aligned date formats to quarterly periods (e.g. `1999-Q1`)
+   - Repeated annual values (GDP, CPI) across all 4 quarters per year
+   - Filtered all datasets to the common window: **1999 Q1 – 2022 Q4**
+   - Exported as a single master CSV with columns: `Date`, `Region`, `Unemployment %`, `CPI`, `OCR`, `GDP`
+5. Loaded into Power BI and built a Date Table for time intelligence
 
-### 3. Power BI Data Model
+---
 
-- Created a comprehensive date table for time intelligence
-- Established relationships between the master fact table and dimension tables
-- Implemented row-level security considerations for regional data
+## 📊 Dashboard Features
 
-### 4. DAX Measures Created
+- **Interactive year slicer** — filter all visuals by year range
+- **Region slicer** — filter regional charts by specific NZ regions
+- **8-quarter unemployment forecast** with 95% confidence interval
+- **Trend lines** on all scatter plots showing economic relationships
+- **Min/Max unemployment cards** for quick summary statistics
 
-### 5. Dashboard Pages
+---
+
+## 💡 How to Use
+
+1. Clone this repository
+2. Open `powerbi/nz_unemployment.pbix` in Power BI Desktop
+3. If prompted, update the data source path to your local `data/cleaned/` folder
+4. Refresh the data and explore the dashboard
+
+---
+
+## 📝 Limitations
+
+- HLFS regional estimates carry higher sampling errors for smaller regions — minor fluctuations in smaller regions should be interpreted with caution
+- CPI and OCR data from RBNZ only available to 2022, limiting the analysis window
+- GDP growth is annual and repeated across quarters, which smooths quarterly variation
+
+---
+
+## 👤 Author
+
+*Feel free to connect on LinkedIn or reach out for any questions about this project.*
