@@ -120,4 +120,4 @@ An end-to-end data analytics project analysing New Zealand unemployment trends, 
 
 ## 👤 Author
 
-*Feel free to connect on LinkedIn or reach out for any questions about this project.*
+*Feel free to connect on [LinkedIn](https://www.linkedin.com/in/nicolas-mir12) or reach out for any questions about this project.*
